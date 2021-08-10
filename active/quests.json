@@ -1,5 +1,78 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Make 5 Nice Curveball Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 337,
+                        "template": "LUNATONE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 338,
+                        "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 7 Great Curveball Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 422,
+                        "template": "SHELLOS_EAST_SEA",
+                        "form": 97
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 422,
+                        "template": "SHELLOS_WEST_SEA",
+                        "form": 96
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 120,
+                        "template": "STARYU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Transfer 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                }
+            ]
+        },
+        {
+            "task": "Spin 10 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 1
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -1005,9 +1078,29 @@
                 {
                     "type": "pokemon",
                     "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
                         "id": 220,
                         "template": "SWINUB_NORMAL",
                         "form": 1277
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
                     }
                 }
             ]
@@ -1120,33 +1213,6 @@
                         "template": "PIDGEOT"
                     },
                     "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 229,
-                        "template": "HOUNDOOM_NORMAL",
-                        "form": 232
-                    },
-                    "amount": 20
                 }
             ]
         }
