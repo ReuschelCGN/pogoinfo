@@ -1,403 +1,5 @@
 [
     {
-        "name": "Eevee Community Day -  Day 1",
-        "type": "community-day",
-        "start": "2021-08-14 11:00",
-        "end": "2021-08-14 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 135,
-                "template": "JOLTEON"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 196,
-                "template": "ESPEON"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 470,
-                "template": "LEAFEON"
-            },
-            {
-                "id": 471,
-                "template": "GLACEON"
-            },
-            {
-                "id": 700,
-                "template": "SYLVEON"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 14
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
-            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Eevee Community Day -  Day 2",
-        "type": "community-day",
-        "start": "2021-08-15 11:00",
-        "end": "2021-08-15 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 135,
-                "template": "JOLTEON"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 196,
-                "template": "ESPEON"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 470,
-                "template": "LEAFEON"
-            },
-            {
-                "id": 471,
-                "template": "GLACEON"
-            },
-            {
-                "id": 700,
-                "template": "SYLVEON"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 14
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
-            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Eevee Community Day",
-        "type": "community-day",
-        "start": "2021-08-13 19:00",
-        "end": "2021-08-16 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 135,
-                "template": "JOLTEON"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 196,
-                "template": "ESPEON"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 470,
-                "template": "LEAFEON"
-            },
-            {
-                "id": 471,
-                "template": "GLACEON"
-            },
-            {
-                "id": 700,
-                "template": "SYLVEON"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 14
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "When you evolve Eevee into any of its Evolutions, that Pokémon will know a special attack!\n        \nVaporeon: Scald (Water-type)\nJolteon: Zap Cannon (Electric-type)\nFlareon: Superpower (Fighting-type)\nEspeon: Shadow Ball (Ghost-type)\nUmbreon: Psychic (Psychic-types)\nLeafeon: Bullet Seed (Grass-type)\nGlaceon: Water Pulse (Water-type)\nSylveon: Psyshock (Psychic-type)\nEevee caught or hatched during this time will know Last Resort.\n\n",
-            "Vaporeon: Scald (Water-type)",
-            "Jolteon: Zap Cannon (Electric-type)",
-            "Flareon: Superpower (Fighting-type)",
-            "Espeon: Shadow Ball (Ghost-type)",
-            "Umbreon: Psychic (Psychic-types)",
-            "Leafeon: Bullet Seed (Grass-type)",
-            "Glaceon: Water Pulse (Water-type)",
-            "Sylveon: Psyshock (Psychic-type)",
-            "Eevee caught or hatched during this time will know Last Resort.",
-            "Evolving Eevee into Sylveon will require only seven hearts instead of the usual 70.",
-            "Due to a bug, you can evolve Eevee in to Espeon or Umbreon with no walking requirement",
-            "Timed Research - There will be special Timed Research available that rewards a Mossy Lure Module and a Glacial Lure Module.",
-            "Community Day Box There’ll be a special one-time-purchase Community Day Box available for 1,280 PokéCoins, featuring 50 Ultra Balls, five Incense, an Elite Fast TM, and an Elite Charged TM.",
-            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
-            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Space - Ultra Unlock Part 2",
-        "type": "event",
-        "start": "2021-08-06 10:00",
-        "end": "2021-08-17 20:00",
-        "spawns": [
-            {
-                "id": 35,
-                "template": "CLEFAIRY"
-            },
-            {
-                "id": 92,
-                "template": "GASTLY"
-            },
-            {
-                "id": 355,
-                "template": "DUSKULL"
-            },
-            {
-                "id": 517,
-                "template": "MUNNA"
-            },
-            {
-                "id": 550,
-                "template": "BASCULIN_BLUE_STRIPED",
-                "form": 137
-            },
-            {
-                "id": 550,
-                "template": "BASCULIN_RED_STRIPED",
-                "form": 136
-            },
-            {
-                "id": 605,
-                "template": "ELGYEM"
-            },
-            {
-                "id": 631,
-                "template": "HEATMOR"
-            },
-            {
-                "id": 632,
-                "template": "DURANT"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 422,
-                "template": "SHELLOS_EAST_SEA",
-                "form": 97
-            },
-            {
-                "id": 422,
-                "template": "SHELLOS_WEST_SEA",
-                "form": 96
-            },
-            {
-                "id": 550,
-                "template": "BASCULIN_BLUE_STRIPED",
-                "form": 137
-            },
-            {
-                "id": 550,
-                "template": "BASCULIN_RED_STRIPED",
-                "form": 136
-            },
-            {
-                "id": 631,
-                "template": "HEATMOR"
-            },
-            {
-                "id": 632,
-                "template": "DURANT"
-            }
-        ],
-        "raids": [
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            },
-            {
-                "id": 422,
-                "template": "SHELLOS_EAST_SEA",
-                "form": 97
-            },
-            {
-                "id": 422,
-                "template": "SHELLOS_WEST_SEA",
-                "form": 96
-            },
-            {
-                "id": 605,
-                "template": "ELGYEM"
-            },
-            {
-                "id": 677,
-                "template": "ESPURR"
-            },
-            {
-                "id": 65,
-                "template": "ALAKAZAM"
-            },
-            {
-                "id": 115,
-                "template": "KANGASKHAN"
-            },
-            {
-                "id": 214,
-                "template": "HERACROSS"
-            },
-            {
-                "id": 484,
-                "template": "PALKIA"
-            },
-            {
-                "id": 181,
-                "template": "AMPHAROS",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 214,
-                "template": "HERACROSS"
-            },
-            {
-                "id": 484,
-                "template": "PALKIA"
-            },
-            {
-                "id": 115,
-                "template": "KANGASKHAN"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Shellos (West Sea) Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-08-17 18:00",
-        "end": "2021-08-17 19:00",
-        "spawns": [
-            {
-                "id": 422,
-                "template": "SHELLOS_WEST_SEA",
-                "form": 96
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Palkia Raid Hour",
         "type": "raid-hour",
         "start": "2021-08-18 18:00",
@@ -481,6 +83,26 @@
             {
                 "id": 568,
                 "template": "TRUBBISH"
+            },
+            {
+                "id": 819,
+                "template": "SKWOVET"
+            },
+            {
+                "id": 831,
+                "template": "WOOLOO"
+            },
+            {
+                "id": 870,
+                "template": "FALINKS"
+            },
+            {
+                "id": 820,
+                "template": "GREEDENT"
+            },
+            {
+                "id": 832,
+                "template": "DUBWOOL"
             }
         ],
         "eggs": [
@@ -551,6 +173,14 @@
                 "template": "LAPRAS"
             },
             {
+                "id": 870,
+                "template": "FALINKS"
+            },
+            {
+                "id": 888,
+                "template": "ZACIAN"
+            },
+            {
                 "id": 15,
                 "template": "BEEDRILL",
                 "temp_evolution_id": 1
@@ -590,7 +220,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
