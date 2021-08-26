@@ -1,38 +1,5 @@
 [
     {
-        "name": "Skwovet Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-08-24 18:00",
-        "end": "2021-08-24 19:00",
-        "spawns": [
-            {
-                "id": 819,
-                "template": "SKWOVET"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Zacian Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-25 18:00",
-        "end": "2021-08-25 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Night",
         "type": "event",
         "start": "2021-08-26 18:00",
@@ -219,7 +186,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -1077,6 +1044,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": null,
+        "end": "2021-09-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Oshawott Community Day",
