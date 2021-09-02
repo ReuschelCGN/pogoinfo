@@ -1,1019 +1,5 @@
 [
     {
-        "name": "Sword and Shield - Ultra Unlock Part 3",
-        "type": "event",
-        "start": "2021-08-20 10:00",
-        "end": "2021-08-31 20:00",
-        "spawns": [
-            {
-                "id": 99,
-                "template": "KINGLER"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA_GALARIAN",
-                "form": 2341
-            },
-            {
-                "id": 568,
-                "template": "TRUBBISH"
-            },
-            {
-                "id": 819,
-                "template": "SKWOVET"
-            },
-            {
-                "id": 831,
-                "template": "WOOLOO"
-            },
-            {
-                "id": 870,
-                "template": "FALINKS"
-            },
-            {
-                "id": 820,
-                "template": "GREEDENT"
-            },
-            {
-                "id": 832,
-                "template": "DUBWOOL"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 52,
-                "template": "MEOWTH_GALARIAN",
-                "form": 2335
-            },
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE_GALARIAN",
-                "form": 2582
-            },
-            {
-                "id": 83,
-                "template": "FARFETCHD_GALARIAN",
-                "form": 2338
-            },
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 946
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA_GALARIAN",
-                "form": 2341
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            }
-        ],
-        "raids": [
-            {
-                "id": 79,
-                "template": "SLOWPOKE_GALARIAN",
-                "form": 2582
-            },
-            {
-                "id": 83,
-                "template": "FARFETCHD_GALARIAN",
-                "form": 2338
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            },
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 946
-            },
-            {
-                "id": 68,
-                "template": "MACHAMP"
-            },
-            {
-                "id": 110,
-                "template": "WEEZING_GALARIAN",
-                "form": 944
-            },
-            {
-                "id": 131,
-                "template": "LAPRAS"
-            },
-            {
-                "id": 888,
-                "template": "ZACIAN"
-            },
-            {
-                "id": 15,
-                "template": "BEEDRILL",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 52,
-                "template": "MEOWTH_GALARIAN",
-                "form": 2335
-            },
-            {
-                "id": 83,
-                "template": "FARFETCHD_GALARIAN",
-                "form": 2338
-            },
-            {
-                "id": 110,
-                "template": "WEEZING_GALARIAN",
-                "form": 944
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 863,
-                "template": "PERRSERKER_NORMAL",
-                "form": 2504
-            },
-            {
-                "id": 865,
-                "template": "SIRFETCHD_NORMAL",
-                "form": 2510
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Wooloo Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-08-31 18:00",
-        "end": "2021-08-31 19:00",
-        "spawns": [
-            {
-                "id": 831,
-                "template": "WOOLOO"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Season of Discovery",
-        "type": "event",
-        "start": "2021-06-01 10:00",
-        "end": "2021-09-01 10:00",
-        "spawns": [
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 2,
-                "template": "IVYSAUR"
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER"
-            },
-            {
-                "id": 5,
-                "template": "CHARMELEON"
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD"
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE"
-            },
-            {
-                "id": 13,
-                "template": "WEEDLE"
-            },
-            {
-                "id": 16,
-                "template": "PIDGEY"
-            },
-            {
-                "id": 17,
-                "template": "PIDGEOTTO"
-            },
-            {
-                "id": 19,
-                "template": "RATTATA_ALOLA",
-                "form": 46
-            },
-            {
-                "id": 25,
-                "template": "PIKACHU"
-            },
-            {
-                "id": 26,
-                "template": "RAICHU"
-            },
-            {
-                "id": 41,
-                "template": "ZUBAT"
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH"
-            },
-            {
-                "id": 58,
-                "template": "GROWLITHE"
-            },
-            {
-                "id": 59,
-                "template": "ARCANINE"
-            },
-            {
-                "id": 66,
-                "template": "MACHOP"
-            },
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 70,
-                "template": "WEEPINBELL"
-            },
-            {
-                "id": 71,
-                "template": "VICTREEBEL"
-            },
-            {
-                "id": 72,
-                "template": "TENTACOOL"
-            },
-            {
-                "id": 73,
-                "template": "TENTACRUEL"
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE"
-            },
-            {
-                "id": 81,
-                "template": "MAGNEMITE"
-            },
-            {
-                "id": 82,
-                "template": "MAGNETON"
-            },
-            {
-                "id": 84,
-                "template": "DODUO"
-            },
-            {
-                "id": 92,
-                "template": "GASTLY"
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 101,
-                "template": "ELECTRODE"
-            },
-            {
-                "id": 111,
-                "template": "RHYHORN"
-            },
-            {
-                "id": 118,
-                "template": "GOLDEEN"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 137,
-                "template": "PORYGON"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 161,
-                "template": "SENTRET"
-            },
-            {
-                "id": 177,
-                "template": "NATU"
-            },
-            {
-                "id": 178,
-                "template": "XATU"
-            },
-            {
-                "id": 183,
-                "template": "MARILL"
-            },
-            {
-                "id": 184,
-                "template": "AZUMARILL"
-            },
-            {
-                "id": 187,
-                "template": "HOPPIP"
-            },
-            {
-                "id": 188,
-                "template": "SKIPLOOM"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 194,
-                "template": "WOOPER"
-            },
-            {
-                "id": 195,
-                "template": "QUAGSIRE"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 261,
-                "template": "POOCHYENA"
-            },
-            {
-                "id": 265,
-                "template": "WURMPLE"
-            },
-            {
-                "id": 270,
-                "template": "LOTAD"
-            },
-            {
-                "id": 271,
-                "template": "LOMBRE"
-            },
-            {
-                "id": 272,
-                "template": "LUDICOLO"
-            },
-            {
-                "id": 273,
-                "template": "SEEDOT"
-            },
-            {
-                "id": 276,
-                "template": "TAILLOW"
-            },
-            {
-                "id": 277,
-                "template": "SWELLOW"
-            },
-            {
-                "id": 283,
-                "template": "SURSKIT"
-            },
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 294,
-                "template": "LOUDRED"
-            },
-            {
-                "id": 299,
-                "template": "NOSEPASS"
-            },
-            {
-                "id": 300,
-                "template": "SKITTY"
-            },
-            {
-                "id": 301,
-                "template": "DELCATTY"
-            },
-            {
-                "id": 304,
-                "template": "ARON"
-            },
-            {
-                "id": 315,
-                "template": "ROSELIA"
-            },
-            {
-                "id": 316,
-                "template": "GULPIN"
-            },
-            {
-                "id": 320,
-                "template": "WAILMER"
-            },
-            {
-                "id": 322,
-                "template": "NUMEL"
-            },
-            {
-                "id": 325,
-                "template": "SPOINK"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 329,
-                "template": "VIBRAVA"
-            },
-            {
-                "id": 333,
-                "template": "SWABLU"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 399,
-                "template": "BIDOOF"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 418,
-                "template": "BUIZEL"
-            },
-            {
-                "id": 431,
-                "template": "GLAMEOW"
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
-            },
-            {
-                "id": 437,
-                "template": "BRONZONG"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 459,
-                "template": "SNOVER"
-            },
-            {
-                "id": 506,
-                "template": "LILLIPUP"
-            },
-            {
-                "id": 517,
-                "template": "MUNNA"
-            },
-            {
-                "id": 519,
-                "template": "PIDOVE"
-            },
-            {
-                "id": 520,
-                "template": "TRANQUILL"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 540,
-                "template": "SEWADDLE"
-            },
-            {
-                "id": 557,
-                "template": "DWEBBLE"
-            },
-            {
-                "id": 564,
-                "template": "TIRTOUGA"
-            },
-            {
-                "id": 566,
-                "template": "ARCHEN"
-            },
-            {
-                "id": 580,
-                "template": "DUCKLETT"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            },
-            {
-                "id": 610,
-                "template": "AXEW"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 650,
-                "template": "CHESPIN"
-            },
-            {
-                "id": 653,
-                "template": "FENNEKIN"
-            },
-            {
-                "id": 656,
-                "template": "FROAKIE"
-            },
-            {
-                "id": 659,
-                "template": "BUNNELBY"
-            },
-            {
-                "id": 661,
-                "template": "FLETCHLING"
-            },
-            {
-                "id": 667,
-                "template": "LITLEO"
-            },
-            {
-                "id": 682,
-                "template": "SPRITZEE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 688,
-                "template": "BINACLE"
-            },
-            {
-                "id": 690,
-                "template": "SKRELP"
-            },
-            {
-                "id": 692,
-                "template": "CLAUNCHER"
-            },
-            {
-                "id": 714,
-                "template": "NOIBAT"
-            },
-            {
-                "id": 10,
-                "template": "CATERPIE"
-            },
-            {
-                "id": 39,
-                "template": "JIGGLYPUFF"
-            },
-            {
-                "id": 43,
-                "template": "ODDISH"
-            },
-            {
-                "id": 50,
-                "template": "DIGLETT_ALOLA",
-                "form": 60
-            },
-            {
-                "id": 54,
-                "template": "PSYDUCK"
-            },
-            {
-                "id": 74,
-                "template": "GEODUDE_ALOLA",
-                "form": 68
-            },
-            {
-                "id": 77,
-                "template": "PONYTA"
-            },
-            {
-                "id": 86,
-                "template": "SEEL"
-            },
-            {
-                "id": 106,
-                "template": "HITMONLEE"
-            },
-            {
-                "id": 107,
-                "template": "HITMONCHAN"
-            },
-            {
-                "id": 120,
-                "template": "STARYU"
-            },
-            {
-                "id": 123,
-                "template": "SCYTHER"
-            },
-            {
-                "id": 127,
-                "template": "PINSIR"
-            },
-            {
-                "id": 138,
-                "template": "OMANYTE"
-            },
-            {
-                "id": 155,
-                "template": "CYNDAQUIL"
-            },
-            {
-                "id": 165,
-                "template": "LEDYBA"
-            },
-            {
-                "id": 170,
-                "template": "CHINCHOU"
-            },
-            {
-                "id": 185,
-                "template": "SUDOWOODO"
-            },
-            {
-                "id": 191,
-                "template": "SUNKERN"
-            },
-            {
-                "id": 193,
-                "template": "YANMA"
-            },
-            {
-                "id": 198,
-                "template": "MURKROW"
-            },
-            {
-                "id": 203,
-                "template": "GIRAFARIG"
-            },
-            {
-                "id": 206,
-                "template": "DUNSPARCE"
-            },
-            {
-                "id": 220,
-                "template": "SWINUB"
-            },
-            {
-                "id": 252,
-                "template": "TREECKO"
-            },
-            {
-                "id": 255,
-                "template": "TORCHIC"
-            },
-            {
-                "id": 257,
-                "template": "BLAZIKEN"
-            },
-            {
-                "id": 258,
-                "template": "MUDKIP"
-            },
-            {
-                "id": 302,
-                "template": "SABLEYE"
-            },
-            {
-                "id": 318,
-                "template": "CARVANHA"
-            },
-            {
-                "id": 339,
-                "template": "BARBOACH"
-            },
-            {
-                "id": 349,
-                "template": "FEEBAS"
-            },
-            {
-                "id": 355,
-                "template": "DUSKULL"
-            },
-            {
-                "id": 370,
-                "template": "LUVDISC"
-            },
-            {
-                "id": 396,
-                "template": "STARLY"
-            },
-            {
-                "id": 397,
-                "template": "STARAVIA"
-            },
-            {
-                "id": 415,
-                "template": "COMBEE"
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 509,
-                "template": "PURRLOIN"
-            },
-            {
-                "id": 543,
-                "template": "VENIPEDE"
-            },
-            {
-                "id": 548,
-                "template": "PETILIL"
-            },
-            {
-                "id": 585,
-                "template": "DEERLING_SUMMER",
-                "form": 586
-            },
-            {
-                "id": 27,
-                "template": "SANDSHREW_ALOLA",
-                "form": 52
-            },
-            {
-                "id": 29,
-                "template": "NIDORAN_FEMALE"
-            },
-            {
-                "id": 35,
-                "template": "CLEFAIRY"
-            },
-            {
-                "id": 37,
-                "template": "VULPIX_ALOLA",
-                "form": 56
-            },
-            {
-                "id": 50,
-                "template": "DIGLETT"
-            },
-            {
-                "id": 90,
-                "template": "SHELLDER"
-            },
-            {
-                "id": 108,
-                "template": "LICKITUNG"
-            },
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 232,
-                "template": "DONPHAN"
-            },
-            {
-                "id": 234,
-                "template": "STANTLER"
-            },
-            {
-                "id": 296,
-                "template": "MAKUHITA"
-            },
-            {
-                "id": 331,
-                "template": "CACNEA"
-            },
-            {
-                "id": 351,
-                "template": "CASTFORM_SUNNY",
-                "form": 30
-            },
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
-                "id": 387,
-                "template": "TURTWIG"
-            },
-            {
-                "id": 388,
-                "template": "GROTLE"
-            },
-            {
-                "id": 389,
-                "template": "TORTERRA"
-            },
-            {
-                "id": 390,
-                "template": "CHIMCHAR"
-            },
-            {
-                "id": 391,
-                "template": "MONFERNO"
-            },
-            {
-                "id": 392,
-                "template": "INFERNAPE"
-            },
-            {
-                "id": 393,
-                "template": "PIPLUP"
-            },
-            {
-                "id": 394,
-                "template": "PRINPLUP"
-            },
-            {
-                "id": 395,
-                "template": "EMPOLEON"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 546,
-                "template": "COTTONEE"
-            },
-            {
-                "id": 585,
-                "template": "DEERLING_WINTER",
-                "form": 588
-            },
-            {
-                "id": 587,
-                "template": "EMOLGA"
-            },
-            {
-                "id": 595,
-                "template": "JOLTIK"
-            },
-            {
-                "id": 597,
-                "template": "FERROSEED"
-            },
-            {
-                "id": 613,
-                "template": "CUBCHOO"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 307,
-                "template": "MEDITITE"
-            },
-            {
-                "id": 418,
-                "template": "BUIZEL"
-            },
-            {
-                "id": 682,
-                "template": "SPRITZEE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 175,
-                "template": "TOGEPI"
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 438,
-                "template": "BONSLY"
-            },
-            {
-                "id": 532,
-                "template": "TIMBURR"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            },
-            {
-                "id": 714,
-                "template": "NOIBAT"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 690,
-                "template": "SKRELP"
-            },
-            {
-                "id": 692,
-                "template": "CLAUNCHER"
-            },
-            {
-                "id": 371,
-                "template": "BAGON"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 447,
-                "template": "RIOLU"
-            }
-        ],
-        "raids": [
-            {
-                "id": 377,
-                "template": "REGIROCK"
-            },
-            {
-                "id": 378,
-                "template": "REGICE"
-            },
-            {
-                "id": 379,
-                "template": "REGISTEEL"
-            }
-        ],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Lugia Raid Hour",
         "type": "raid-hour",
         "start": "2021-09-08 18:00",
@@ -1128,9 +114,85 @@
         "type": "event",
         "start": "2021-09-08 10:00",
         "end": "2021-09-13 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 686,
+                "template": "INKAY"
+            },
+            {
+                "id": 687,
+                "template": "MALAMAR"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 577,
+                "template": "SOLOSIS"
+            },
+            {
+                "id": 605,
+                "template": "ELGYEM"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 358,
+                "template": "CHIMECHO"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 686,
+                "template": "INKAY"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET"
+            },
+            {
+                "id": 308,
+                "template": "MEDICHAM"
+            },
+            {
+                "id": 376,
+                "template": "METAGROSS"
+            },
+            {
+                "id": 249,
+                "template": "LUGIA"
+            },
+            {
+                "id": 80,
+                "template": "SLOWBRO",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -1283,7 +345,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -1293,20 +355,256 @@
         "end": "2021-12-01 10:00",
         "spawns": [
             {
+                "id": 10,
+                "template": "CATERPIE"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 14,
+                "template": "KAKUNA"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 19,
+                "template": "RATTATA"
+            },
+            {
+                "id": 20,
+                "template": "RATICATE"
+            },
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 22,
+                "template": "FEAROW"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 28,
+                "template": "SANDSLASH"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 30,
+                "template": "NIDORINA"
+            },
+            {
+                "id": 31,
+                "template": "NIDOQUEEN"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 33,
+                "template": "NIDORINO"
+            },
+            {
+                "id": 34,
+                "template": "NIDOKING"
+            },
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 44,
+                "template": "GLOOM"
+            },
+            {
+                "id": 48,
+                "template": "VENONAT"
+            },
+            {
+                "id": 49,
+                "template": "VENOMOTH"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 65,
+                "template": "ALAKAZAM"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 67,
+                "template": "MACHOKE"
+            },
+            {
+                "id": 68,
+                "template": "MACHAMP"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 70,
+                "template": "WEEPINBELL"
+            },
+            {
+                "id": 71,
+                "template": "VICTREEBEL"
+            },
+            {
+                "id": 72,
+                "template": "TENTACOOL"
+            },
+            {
+                "id": 73,
+                "template": "TENTACRUEL"
+            },
+            {
                 "id": 74,
                 "template": "GEODUDE"
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 84,
+                "template": "DODUO"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
             },
             {
                 "id": 98,
                 "template": "KRABBY"
             },
             {
+                "id": 99,
+                "template": "KINGLER"
+            },
+            {
+                "id": 104,
+                "template": "CUBONE"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 110,
+                "template": "WEEZING"
+            },
+            {
                 "id": 111,
                 "template": "RHYHORN"
             },
             {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
                 "id": 116,
                 "template": "HORSEA"
+            },
+            {
+                "id": 117,
+                "template": "SEADRA"
+            },
+            {
+                "id": 118,
+                "template": "GOLDEEN"
+            },
+            {
+                "id": 119,
+                "template": "SEAKING"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 132,
+                "template": "DITTO"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 168,
+                "template": "ARIADOS"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 178,
+                "template": "XATU"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
             },
             {
                 "id": 216,
@@ -1317,12 +615,156 @@
                 "template": "SLUGMA"
             },
             {
+                "id": 223,
+                "template": "REMORAID"
+            },
+            {
                 "id": 226,
                 "template": "MANTINE"
             },
             {
+                "id": 265,
+                "template": "WURMPLE"
+            },
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA"
+            },
+            {
+                "id": 287,
+                "template": "SLAKOTH"
+            },
+            {
+                "id": 288,
+                "template": "VIGOROTH"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            },
+            {
+                "id": 293,
+                "template": "WHISMUR"
+            },
+            {
+                "id": 294,
+                "template": "LOUDRED"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 316,
+                "template": "GULPIN"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 341,
+                "template": "CORPHISH"
+            },
+            {
+                "id": 342,
+                "template": "CRAWDAUNT"
+            },
+            {
+                "id": 351,
+                "template": "CASTFORM"
+            },
+            {
                 "id": 353,
                 "template": "SHUPPET"
+            },
+            {
+                "id": 354,
+                "template": "BANETTE"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 372,
+                "template": "SHELGON"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 426,
+                "template": "DRIFBLIM"
+            },
+            {
+                "id": 434,
+                "template": "STUNKY"
+            },
+            {
+                "id": 449,
+                "template": "HIPPOPOTAS"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 509,
+                "template": "PURRLOIN"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 520,
+                "template": "TRANQUILL"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 543,
+                "template": "VENIPEDE"
             },
             {
                 "id": 568,
@@ -1337,8 +779,56 @@
                 "template": "KARRABLAST"
             },
             {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 592,
+                "template": "FRILLISH"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
                 "id": 616,
                 "template": "SHELMET"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 692,
+                "template": "CLAUNCHER"
             }
         ],
         "eggs": [
@@ -1519,7 +1009,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     }
 ]
