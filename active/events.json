@@ -992,7 +992,7 @@
             {
                 "text": "2× Lure duration",
                 "template": "longer-lure",
-                "value": 2
+                "value": 1
             },
             {
                 "text": "Increased Incense effectiveness",
