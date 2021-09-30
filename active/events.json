@@ -1,141 +1,5 @@
 [
     {
-        "name": "Alolan Meowth Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-09-28 18:00",
-        "end": "2021-09-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Fashion Week 2021",
-        "type": "event",
-        "start": "2021-09-21 10:00",
-        "end": "2021-09-28 20:00",
-        "spawns": [
-            {
-                "id": 676,
-                "template": "FURFROU"
-            },
-            {
-                "id": 281,
-                "template": "KIRLIA",
-                "costume": 16
-            },
-            {
-                "id": 300,
-                "template": "SKITTY"
-            },
-            {
-                "id": 431,
-                "template": "GLAMEOW"
-            },
-            {
-                "id": 522,
-                "template": "BLITZLE"
-            },
-            {
-                "id": 574,
-                "template": "GOTHITA"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 52,
-                "template": "MEOWTH_ALOLA",
-                "form": 64
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH_GALARIAN",
-                "form": 2335
-            },
-            {
-                "id": 238,
-                "template": "SMOOCHUM",
-                "costume": 16
-            }
-        ],
-        "raids": [
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            },
-            {
-                "id": 676,
-                "template": "FURFROU"
-            },
-            {
-                "id": 281,
-                "template": "KIRLIA",
-                "costume": 16
-            },
-            {
-                "id": 301,
-                "template": "DELCATTY"
-            },
-            {
-                "id": 575,
-                "template": "GOTHORITA"
-            },
-            {
-                "id": 480,
-                "template": "UXIE"
-            },
-            {
-                "id": 481,
-                "template": "MESPRIT"
-            },
-            {
-                "id": 482,
-                "template": "AZELF"
-            },
-            {
-                "id": 229,
-                "template": "HOUNDOOM",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 238,
-                "template": "SMOOCHUM",
-                "costume": 16
-            },
-            {
-                "id": 281,
-                "template": "KIRLIA",
-                "costume": 16
-            },
-            {
-                "id": 522,
-                "template": "BLITZLE"
-            },
-            {
-                "id": 523,
-                "template": "ZEBSTRIKA"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Lake Guardian Raid Hour",
         "type": "raid-hour",
         "start": "2021-09-29 18:00",
@@ -168,6 +32,20 @@
         "type": "event",
         "start": "2021-10-06 11:00",
         "end": "2021-10-06 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Genesect (Douse) Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-06 18:00",
+        "end": "2021-10-06 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -301,6 +179,16 @@
             {
                 "id": 330,
                 "template": "FLYGON"
+            },
+            {
+                "id": 649,
+                "template": "GENESECT_DOUSE",
+                "form": 597
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [
@@ -316,7 +204,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -332,6 +220,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Altered Forme Giratina Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-20 18:00",
+        "end": "2021-10-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Jessie and James Meowth Balloons",
@@ -376,6 +278,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Darkrai Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-27 18:00",
+        "end": "2021-10-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Pokémon GO Halloween 2021",
         "type": "event",
         "start": "2021-10-15 11:00",
@@ -386,7 +302,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -1064,7 +980,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
