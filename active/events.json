@@ -218,7 +218,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -308,7 +308,7 @@
     {
         "name": "Pokémon GO Halloween 2021",
         "type": "event",
-        "start": "2021-10-15 11:00",
+        "start": "2021-10-15 10:00",
         "end": "2021-10-31 20:00",
         "spawns": [],
         "eggs": [],
@@ -316,7 +316,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -994,7 +994,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
