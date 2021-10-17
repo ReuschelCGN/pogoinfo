@@ -1,6 +1,18 @@
 {
     "event": [
         {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 9 Pokémon",
             "rewards": [
                 {
@@ -16,51 +28,6 @@
                         "id": 96,
                         "template": "DROWZEE_NORMAL",
                         "form": 214
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 3 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 527,
-                        "template": "WOOBAT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 562,
-                        "template": "YAMASK_GALARIAN",
-                        "form": 2344
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 167,
-                        "template": "SPINARAK"
                     }
                 }
             ]
@@ -105,6 +72,39 @@
                     "reward": {
                         "id": 167,
                         "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 3 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 41,
+                        "template": "ZUBAT_NORMAL",
+                        "form": 157
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 527,
+                        "template": "WOOBAT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 25 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_GALARIAN",
+                        "form": 2344
                     }
                 }
             ]
