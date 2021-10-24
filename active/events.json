@@ -16,8 +16,8 @@
     {
         "name": "Darkrai Raid Hour",
         "type": "raid-hour",
-        "start": "2021-10-27 18:00",
-        "end": "2021-10-27 19:00",
+        "start": "2021-11-03 18:00",
+        "end": "2021-11-03 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -214,6 +214,119 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Cacnea Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-02 18:00",
+        "end": "2021-11-02 19:00",
+        "spawns": [
+            {
+                "id": 331,
+                "template": "CACNEA"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Día de Muertos",
+        "type": "event",
+        "start": "2021-11-01 10:00",
+        "end": "2021-11-02 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Chinchou Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-09 18:00",
+        "end": "2021-11-09 19:00",
+        "spawns": [
+            {
+                "id": 170,
+                "template": "CHINCHOU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Cobalion, Terrakion, and Virizion Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-10 18:00",
+        "end": "2021-11-10 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Festival of Lights",
+        "type": "event",
+        "start": "2021-11-05 10:00",
+        "end": "2021-11-14 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Turtwig Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-16 18:00",
+        "end": "2021-11-16 19:00",
+        "spawns": [
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Cresselia Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-24 18:00",
+        "end": "2021-11-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Shinx Community Day",
         "type": "community-day",
         "start": "2021-11-21 11:00",
@@ -269,6 +382,72 @@
             "Gyms and raids: 30 Power"
         ],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Brilliant Diamond and Shining Pearl Celebration Event",
+        "type": "event",
+        "start": "2021-11-16 10:00",
+        "end": "2021-11-21 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Chimchar Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-23 18:00",
+        "end": "2021-11-23 19:00",
+        "spawns": [
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Epic Event for Season of Mischief",
+        "type": "event",
+        "start": "2021-11-26 10:00",
+        "end": "2021-11-29 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Piplup Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-30 18:00",
+        "end": "2021-11-30 19:00",
+        "spawns": [
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {

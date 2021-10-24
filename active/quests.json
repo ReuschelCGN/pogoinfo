@@ -21,6 +21,19 @@
             ]
         },
         {
+            "task": "Catch 25 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_GALARIAN",
+                        "form": 2344
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Curveball Throws",
             "rewards": [
                 {
@@ -68,31 +81,6 @@
                     "reward": {
                         "id": 92,
                         "template": "GASTLY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 426,
-                        "template": "DRIFBLIM"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 562,
-                        "template": "YAMASK_GALARIAN",
-                        "form": 2344
                     }
                 }
             ]
