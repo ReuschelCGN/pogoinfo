@@ -105,7 +105,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Brilliant Diamond and Shining Pearl Celebration Event Part 1",
+        "name": "Brilliant Diamond Celebration Event Part 1",
         "type": "event",
         "start": "2021-11-16 10:00",
         "end": "2021-11-18 10:00",
@@ -257,7 +257,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Brilliant Diamond and Shining Pearl Celebration Event Part 2",
+        "name": "Shining Pearl Celebration Event Part 2",
         "type": "event",
         "start": "2021-11-18 10:00",
         "end": "2021-11-21 20:00",
