@@ -1,85 +1,27 @@
 {
     "event": [
         {
-            "task": "Catch 2 Turtwig",
+            "task": "Walk 1 km with your buddy. ",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 387,
-                        "template": "TURTWIG_NORMAL",
-                        "form": 688
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
         },
         {
-            "task": "Catch 2 Chimchar",
+            "task": "Complete 7 Field Research Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 390,
-                        "template": "CHIMCHAR_NORMAL",
-                        "form": 818
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 2 Piplup",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 393,
-                        "template": "PIPLUP"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 412,
-                        "template": "BURMY_PLANT",
-                        "form": 118
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 412,
-                        "template": "BURMY_TRASH",
-                        "form": 120
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 408,
-                        "template": "CRANIDOS"
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
