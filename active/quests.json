@@ -1,7 +1,7 @@
 {
     "event": [
         {
-            "task": "Make 3 Nice Curveball Throws in a Row. ",
+            "task": "Make 3 Nice Curveball Throws in a Row",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "task": "Win a raid in under 60 seconds. ",
+            "task": "Win a raid in under 60 seconds",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -553,7 +553,7 @@
             ]
         },
         {
-            "task": "Make 3 Curveball Throws in a row. ",
+            "task": "Make 3 Curveball Throws in a row",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -832,7 +832,7 @@
             ]
         },
         {
-            "task": "Sent 10 Gifts to friends. ",
+            "task": "Sent 10 Gifts to friends",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -1039,7 +1039,7 @@
             ]
         },
         {
-            "task": "Spin 3 Pokestops or Gyms",
+            "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "stardust",
