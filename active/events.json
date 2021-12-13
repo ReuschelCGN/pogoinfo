@@ -1144,9 +1144,23 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Pokémon GO Holidays 2021",
+        "name": "Pokémon GO Holidays 2021 Part1",
         "type": "event",
         "start": "2021-12-16 10:00",
+        "end": "2021-12-23 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Holidays 2021 Part2",
+        "type": "event",
+        "start": "2021-12-23 10:00",
         "end": "2021-12-31 20:00",
         "spawns": [],
         "eggs": [],
