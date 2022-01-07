@@ -1,64 +1,56 @@
 {
     "1": [
         {
-            "id": 79,
-            "template": "SLOWPOKE_NORMAL",
-            "form": 1017
+            "id": 74,
+            "template": "GEODUDE_ALOLA",
+            "form": 68
         },
         {
-            "id": 163,
-            "template": "HOOTHOOT"
+            "id": 95,
+            "template": "ONIX_NORMAL",
+            "form": 902
         },
         {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 374,
+            "template": "BELDUM_NORMAL",
+            "form": 764
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 436,
+            "template": "BRONZOR"
         }
     ],
     "3": [
         {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "id": 217,
+            "template": "URSARING_NORMAL",
+            "form": 1268
         },
         {
-            "id": 33,
-            "template": "NIDORINO_NORMAL",
-            "form": 785
+            "id": 232,
+            "template": "DONPHAN"
         },
         {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
+            "id": 308,
+            "template": "MEDICHAM"
         },
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044
-        },
-        {
-            "id": 199,
-            "template": "SLOWKING_NORMAL",
-            "form": 1238
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
         }
     ],
     "5": [
         {
-            "id": 646,
-            "template": "KYUREM_NORMAL",
-            "form": 146
+            "id": 485,
+            "template": "HEATRAN"
         }
     ],
     "6": [
         {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935,
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110,
             "temp_evolution_id": 1
         }
     ]
