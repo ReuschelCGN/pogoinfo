@@ -1,43 +1,47 @@
 {
     "1": [
         {
-            "id": 74,
-            "template": "GEODUDE_ALOLA",
-            "form": 68
+            "id": 138,
+            "template": "OMANYTE_NORMAL",
+            "form": 740
         },
         {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
+            "id": 140,
+            "template": "KABUTO_NORMAL",
+            "form": 1104
         },
         {
-            "id": 374,
-            "template": "BELDUM_NORMAL",
-            "form": 764
+            "id": 170,
+            "template": "CHINCHOU"
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 278,
+            "template": "WINGULL"
+        },
+        {
+            "id": 535,
+            "template": "TYMPOLE"
         }
     ],
     "3": [
         {
-            "id": 217,
-            "template": "URSARING_NORMAL",
-            "form": 1268
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
         },
         {
-            "id": 232,
-            "template": "DONPHAN"
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 308,
-            "template": "MEDICHAM"
+            "id": 219,
+            "template": "MAGCARGO"
         },
         {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         }
     ],
     "5": [
