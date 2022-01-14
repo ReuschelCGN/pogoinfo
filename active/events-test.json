@@ -2,8 +2,8 @@
     {
         "name": "Eventwatcher Testevent 01",
         "type": "event",
-        "start": "2022-01-14 11:00",
-        "end": "2022-01-14 15:00",
+        "start": "2022-01-14 20:30",
+        "end": "2022-01-14 21:00",
         "spawns": [
             {
                 "id": 41,
@@ -105,8 +105,8 @@
     {
         "name": "Eventwatcher Testevent 02",
         "type": "event",
-        "start": "2022-01-14 16:00",
-        "end": "2022-01-14 20:00",
+        "start": "2022-01-14 21:30",
+        "end": "2022-01-14 22:00",
         "spawns": [
             {
                 "id": 41,
