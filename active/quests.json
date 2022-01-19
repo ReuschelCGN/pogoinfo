@@ -1,5 +1,33 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 5 Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 595,
+                        "template": "JOLTIK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 309,
+                        "template": "ELECTRIKE_NORMAL",
+                        "form": 1484
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -1154,6 +1182,10 @@
                     "id": 1
                 }
             ]
+        },
+        {
+            "task": "Make 3 Curveball Throws",
+            "rewards": []
         }
     ],
     "ar": [
