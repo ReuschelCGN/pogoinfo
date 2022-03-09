@@ -1,24 +1,5 @@
 [
     {
-        "name": "Exeggcute Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-03-08 18:00",
-        "end": "2022-03-08 19:00",
-        "spawns": [
-            {
-                "id": 102,
-                "template": "EXEGGCUTE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Koko Raid Hour",
         "type": "raid-hour",
         "start": "2022-03-09 18:00",
@@ -320,6 +301,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Day: Mega Stardust Surprise",
+        "type": "event",
+        "start": "2022-05-29 00:00",
+        "end": "2022-05-29 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Season of Alola",
