@@ -463,6 +463,11 @@
                 "template": "LITTEN"
             },
             {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
                 "id": 203,
                 "template": "GIRAFARIG"
             },
@@ -505,6 +510,10 @@
             {
                 "id": 667,
                 "template": "LITLEO"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
             },
             {
                 "id": 258,
@@ -551,6 +560,10 @@
                 "template": "ROWLET"
             },
             {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
                 "id": 138,
                 "template": "OMANYTE"
             },
@@ -593,11 +606,81 @@
             {
                 "id": 728,
                 "template": "POPPLIO"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
             }
         ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 286,
+                "template": "BRELOOM"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 589,
+                "template": "ESCAVALIER"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 611,
+                "template": "FRAXURE"
+            },
+            {
+                "id": 612,
+                "template": "HAXORUS"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 617,
+                "template": "ACCELGOR"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_B",
+                "form": 2
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_G",
+                "form": 7
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_O",
+                "form": 15
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
