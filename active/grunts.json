@@ -196,14 +196,14 @@
                 ],
                 [
                     {
-                        "id": 435,
-                        "template": "SKUNTANK_NORMAL",
-                        "form": 794
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 435,
+                        "template": "SKUNTANK_NORMAL",
+                        "form": 794
                     }
                 ],
                 [
@@ -251,7 +251,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -722,8 +723,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -752,14 +752,14 @@
                 ],
                 [
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_NORMAL",
-                        "form": 879
-                    },
-                    {
                         "id": 460,
                         "template": "ABOMASNOW_NORMAL",
                         "form": 935
+                    },
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_NORMAL",
+                        "form": 879
                     },
                     {
                         "id": 131,
