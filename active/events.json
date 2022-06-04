@@ -367,7 +367,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -684,7 +684,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
