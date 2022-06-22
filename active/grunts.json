@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -491,13 +491,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 38,
