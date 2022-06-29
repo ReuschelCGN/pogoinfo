@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 434,
                         "template": "STUNKY_NORMAL",
                         "form": 791
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
@@ -495,14 +495,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     }
                 ]
             ]
