@@ -1,395 +1,5 @@
 [
     {
-        "name": "TCG Hat Pikachu Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-06-28 18:00",
-        "end": "2022-06-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Mewtwo Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-06-29 18:00",
-        "end": "2022-06-29 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon TCG Crossover Event",
-        "type": "event",
-        "start": null,
-        "end": "2022-06-30 20:00",
-        "spawns": [
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 2,
-                "template": "IVYSAUR"
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER"
-            },
-            {
-                "id": 5,
-                "template": "CHARMELEON"
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE"
-            },
-            {
-                "id": 8,
-                "template": "WARTORTLE"
-            },
-            {
-                "id": 19,
-                "template": "RATTATA_ALOLA",
-                "form": 46
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 177,
-                "template": "NATU"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 322,
-                "template": "NUMEL"
-            },
-            {
-                "id": 337,
-                "template": "LUNATONE"
-            },
-            {
-                "id": 338,
-                "template": "SOLROCK"
-            },
-            {
-                "id": 399,
-                "template": "BIDOOF"
-            },
-            {
-                "id": 519,
-                "template": "PIDOVE"
-            },
-            {
-                "id": 767,
-                "template": "WIMPOD"
-            },
-            {
-                "id": 95,
-                "template": "ONIX"
-            },
-            {
-                "id": 113,
-                "template": "CHANSEY"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 149,
-                "template": "DRAGONITE"
-            },
-            {
-                "id": 289,
-                "template": "SLAKING"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 113,
-                "template": "CHANSEY"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 532,
-                "template": "TIMBURR"
-            },
-            {
-                "id": 767,
-                "template": "WIMPOD"
-            },
-            {
-                "id": 103,
-                "template": "EXEGGUTOR_ALOLA",
-                "form": 78
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 149,
-                "template": "DRAGONITE"
-            },
-            {
-                "id": 289,
-                "template": "SLAKING"
-            },
-            {
-                "id": 150,
-                "template": "MEWTWO"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD",
-                "temp_evolution_id": 2
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD",
-                "temp_evolution_id": 3
-            },
-            {
-                "id": 9,
-                "template": "BLASTOISE",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 808,
-                "template": "MELTAN"
-            },
-            {
-                "id": 809,
-                "template": "MELMETAL"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO Fest: Berlin",
-        "type": "event",
-        "start": "2022-07-01 09:00",
-        "end": "2022-07-03 18:00",
-        "spawns": [
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 415,
-                "template": "COMBEE"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 694,
-                "template": "HELIOPTILE"
-            },
-            {
-                "id": 90,
-                "template": "SHELLDER"
-            },
-            {
-                "id": 349,
-                "template": "FEEBAS"
-            },
-            {
-                "id": 366,
-                "template": "CLAMPERL"
-            },
-            {
-                "id": 515,
-                "template": "PANPOUR"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 123,
-                "template": "SCYTHER"
-            },
-            {
-                "id": 187,
-                "template": "HOPPIP"
-            },
-            {
-                "id": 193,
-                "template": "YANMA"
-            },
-            {
-                "id": 511,
-                "template": "PANSAGE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 95,
-                "template": "ONIX"
-            },
-            {
-                "id": 337,
-                "template": "LUNATONE"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 513,
-                "template": "PANSEAR"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 488,
-                "template": "CRESSELIA"
-            },
-            {
-                "id": 491,
-                "template": "DARKRAI"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 513,
-                "template": "PANSEAR"
-            },
-            {
-                "id": 514,
-                "template": "SIMISEAR"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 591,
-                "template": "AMOONGUSS"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Make up to six Special Trades"
-            },
-            {
-                "text": "Reduced Stardust cost for trades",
-                "template": "increased-stardust"
-            },
-            {
-                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
-                "value": 9
-            },
-            {
-                "text": "Team GO Rocket Balloons will be appearing more often"
-            },
-            {
-                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
-            },
-            {
-                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
-                "value": 12
-            },
-            {
-                "text": "An additional 5,000 XP from completed raids",
-                "template": "increased-xp",
-                "value": 5000
-            },
-            {
-                "text": "6 Additional Candy from Pokémon in 5-star raids",
-                "template": "increased-candy",
-                "value": 65
-            },
-            {
-                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
-                "value": 35
-            },
-            {
-                "text": "1/4 Egg Hatch Distance*",
-                "template": "reduced-hatch-distance",
-                "value": 14
-            },
-            {
-                "text": "2x Hatch XP",
-                "value": 2
-            },
-            {
-                "text": "2x Hatch Candy",
-                "value": 2
-            },
-            {
-                "text": "2x Hatch Stardust",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Ledyba Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-07-05 18:00",
@@ -431,9 +41,46 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Enjoy up to 20 GO Battle League sets each day",
+                "value": 20
+            },
+            {
+                "text": "Use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            },
+            {
+                "text": "Team GO Rocket balloons will appear every two hours"
+            },
+            {
+                "text": "Earn 5x Stardust from GO Battle League Rewards",
+                "template": "increased-stardust",
+                "value": 5
+            },
+            {
+                "text": "1 extra Raid Pass per day",
+                "value": 1
+            },
+            {
+                "text": "Earn 50% extra XP from Raid Battles",
+                "template": "increased-xp",
+                "value": 50
+            },
+            {
+                "text": "Earn 2 Mysterious Components from defeating Team GO Rocket Grunts",
+                "value": 2
+            },
+            {
+                "text": "Earn 50% extra Stardust from defeating Team GO Rocket Grunts",
+                "value": 50
+            },
+            {
+                "text": "Encounter Legendary Pokémon in GO Battle League reward encounters at Rank 16 and up",
+                "value": 16
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -460,13 +107,145 @@
         "type": "event",
         "start": "2022-07-06 10:00",
         "end": "2022-07-12 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 165,
+                "template": "LEDYBA"
+            },
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 543,
+                "template": "VENIPEDE"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            },
+            {
+                "id": 659,
+                "template": "BUNNELBY"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 444,
+                "template": "GABITE"
+            },
+            {
+                "id": 692,
+                "template": "CLAUNCHER"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
+        "raids": [
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_E",
+                "form": 5
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR"
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE"
+            },
+            {
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
+                "id": 376,
+                "template": "METAGROSS"
+            },
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            }
+        ],
+        "shinies": [
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 514,
+                "template": "SIMISEAR"
+            }
+        ],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
