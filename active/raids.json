@@ -6,51 +6,47 @@
             "form": 172
         },
         {
-            "id": 52,
-            "template": "MEOWTH_NORMAL",
-            "form": 63
+            "id": 7,
+            "template": "SQUIRTLE_NORMAL",
+            "form": 181
         },
         {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 120,
-            "template": "STARYU"
-        },
-        {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 38,
+            "template": "NINETALES_NORMAL",
+            "form": 57
         },
         {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 40,
-            "template": "WIGGLYTUFF"
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         },
         {
-            "id": 210,
-            "template": "GRANBULL_NORMAL",
-            "form": 1256
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
         {
-            "id": 144,
-            "template": "ARTICUNO_NORMAL",
-            "form": 716
+            "id": 145,
+            "template": "ZAPDOS_NORMAL",
+            "form": 773
         }
     ],
     "6": [
