@@ -954,9 +954,9 @@
                         "form": 157
                     },
                     {
-                        "id": 30,
-                        "template": "NIDORINA_NORMAL",
-                        "form": 779
+                        "id": 590,
+                        "template": "FOONGUS_NORMAL",
+                        "form": 2162
                     }
                 ],
                 [
@@ -966,9 +966,9 @@
                         "form": 785
                     },
                     {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
+                        "id": 30,
+                        "template": "NIDORINA_NORMAL",
+                        "form": 779
                     }
                 ],
                 [
@@ -1030,7 +1030,20 @@
                 [
                     {
                         "id": 203,
-                        "template": "GIRAFARIG"
+                        "template": "GIRAFARIG_NORMAL",
+                        "form": 1241
+                    },
+                    {
+                        "id": 63,
+                        "template": "ABRA_NORMAL",
+                        "form": 304
+                    }
+                ],
+                [
+                    {
+                        "id": 203,
+                        "template": "GIRAFARIG_NORMAL",
+                        "form": 1241
                     },
                     {
                         "id": 280,
@@ -1040,25 +1053,19 @@
                 ],
                 [
                     {
-                        "id": 203,
-                        "template": "GIRAFARIG"
-                    },
-                    {
-                        "id": 64,
-                        "template": "KADABRA_NORMAL",
-                        "form": 307
-                    }
-                ],
-                [
-                    {
-                        "id": 65,
-                        "template": "ALAKAZAM_NORMAL",
-                        "form": 310
+                        "id": 375,
+                        "template": "METANG_NORMAL",
+                        "form": 767
                     },
                     {
                         "id": 97,
                         "template": "HYPNO_NORMAL",
                         "form": 217
+                    },
+                    {
+                        "id": 203,
+                        "template": "GIRAFARIG_NORMAL",
+                        "form": 1241
                     }
                 ]
             ]
@@ -1095,13 +1102,18 @@
             "team": [
                 [
                     {
-                        "id": 213,
-                        "template": "SHUCKLE_NORMAL",
-                        "form": 827
-                    },
-                    {
                         "id": 185,
                         "template": "SUDOWOODO"
+                    },
+                    {
+                        "id": 74,
+                        "template": "GEODUDE_NORMAL",
+                        "form": 67
+                    },
+                    {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
                     }
                 ],
                 [
@@ -1111,9 +1123,9 @@
                         "form": 1568
                     },
                     {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
+                        "id": 75,
+                        "template": "GRAVELER_NORMAL",
+                        "form": 69
                     },
                     {
                         "id": 347,
@@ -1126,6 +1138,11 @@
                         "id": 247,
                         "template": "PUPITAR_NORMAL",
                         "form": 316
+                    },
+                    {
+                        "id": 76,
+                        "template": "GOLEM_NORMAL",
+                        "form": 71
                     },
                     {
                         "id": 248,
