@@ -128,9 +128,9 @@
                         "form": 616
                     },
                     {
-                        "id": 49,
-                        "template": "VENOMOTH_NORMAL",
-                        "form": 262
+                        "id": 213,
+                        "template": "SHUCKLE_NORMAL",
+                        "form": 827
                     }
                 ],
                 [
@@ -184,33 +184,33 @@
             "team": [
                 [
                     {
-                        "id": 434,
-                        "template": "STUNKY_NORMAL",
-                        "form": 791
+                        "id": 509,
+                        "template": "PURRLOIN_NORMAL",
+                        "form": 1931
                     },
                     {
                         "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
+                        "template": "RATTATA_ALOLA",
+                        "form": 46
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
+                        "template": "RATICATE_ALOLA",
+                        "form": 48
                     },
                     {
-                        "id": 435,
-                        "template": "SKUNTANK_NORMAL",
-                        "form": 794
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
+                        "template": "RATICATE_ALOLA",
+                        "form": 48
                     },
                     {
                         "id": 332,
@@ -260,13 +260,28 @@
                         "id": 147,
                         "template": "DRATINI_NORMAL",
                         "form": 190
+                    },
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_ALOLA",
+                        "form": 78
                     }
                 ],
                 [
                     {
                         "id": 103,
-                        "template": "EXEGGUTOR_NORMAL",
-                        "form": 77
+                        "template": "EXEGGUTOR_ALOLA",
+                        "form": 78
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_NORMAL",
+                        "form": 193
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     }
                 ],
                 [
@@ -411,6 +426,11 @@
                         "id": 106,
                         "template": "HITMONLEE_NORMAL",
                         "form": 713
+                    },
+                    {
+                        "id": 67,
+                        "template": "MACHOKE_NORMAL",
+                        "form": 812
                     }
                 ],
                 [
@@ -469,19 +489,15 @@
                         "form": 1127
                     },
                     {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    },
-                    {
                         "id": 322,
                         "template": "NUMEL"
                     }
                 ],
                 [
                     {
-                        "id": 323,
-                        "template": "CAMERUPT"
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
                     },
                     {
                         "id": 156,
@@ -548,9 +564,9 @@
                         "form": 855
                     },
                     {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
+                        "id": 580,
+                        "template": "DUCKLETT_NORMAL",
+                        "form": 2138
                     }
                 ],
                 [
@@ -572,9 +588,14 @@
                         "form": 202
                     },
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
                     }
                 ]
             ]
