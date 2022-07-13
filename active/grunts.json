@@ -1566,6 +1566,11 @@
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
                     }
                 ],
                 [
@@ -1575,9 +1580,9 @@
                         "form": 911
                     },
                     {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
+                        "id": 356,
+                        "template": "DUSCLOPS_NORMAL",
+                        "form": 917
                     }
                 ],
                 [
@@ -1619,9 +1624,9 @@
             "team": [
                 [
                     {
-                        "id": 100,
-                        "template": "VOLTORB_NORMAL",
-                        "form": 1047
+                        "id": 403,
+                        "template": "SHINX_NORMAL",
+                        "form": 1679
                     },
                     {
                         "id": 179,
@@ -1631,14 +1636,9 @@
                 ],
                 [
                     {
-                        "id": 101,
-                        "template": "ELECTRODE_NORMAL",
-                        "form": 1050
-                    },
-                    {
-                        "id": 180,
-                        "template": "FLAAFFY_NORMAL",
-                        "form": 649
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
                     },
                     {
                         "id": 100,
@@ -1648,6 +1648,11 @@
                 ],
                 [
                     {
+                        "id": 405,
+                        "template": "LUXRAY_NORMAL",
+                        "form": 1685
+                    },
+                    {
                         "id": 125,
                         "template": "ELECTABUZZ_NORMAL",
                         "form": 640
@@ -1656,11 +1661,6 @@
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
-                    },
-                    {
-                        "id": 101,
-                        "template": "ELECTRODE_NORMAL",
-                        "form": 1050
                     }
                 ]
             ]
