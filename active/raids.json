@@ -1,6 +1,11 @@
 {
     "1": [
         {
+            "id": 1,
+            "template": "BULBASAUR_NORMAL",
+            "form": 163
+        },
+        {
             "id": 4,
             "template": "CHARMANDER_NORMAL",
             "form": 172
