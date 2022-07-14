@@ -28,23 +28,24 @@
     ],
     "3": [
         {
-            "id": 38,
-            "template": "NINETALES_NORMAL",
-            "form": 57
+            "id": 57,
+            "template": "PRIMEAPE_NORMAL",
+            "form": 1002
         },
         {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 67,
+            "template": "MACHOKE_NORMAL",
+            "form": 812
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 507,
+            "template": "HERDIER_NORMAL",
+            "form": 1925
         }
     ],
     "5": [
