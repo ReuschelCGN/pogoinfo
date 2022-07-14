@@ -49,17 +49,16 @@
     ],
     "5": [
         {
-            "id": 145,
-            "template": "ZAPDOS_NORMAL",
-            "form": 773
+            "id": 146,
+            "template": "MOLTRES_NORMAL",
+            "form": 863
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 3
+            "id": 18,
+            "template": "PIDGEOT_NORMAL",
+            "form": 968
         }
     ]
 }
