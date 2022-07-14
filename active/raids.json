@@ -57,7 +57,8 @@
         {
             "id": 18,
             "template": "PIDGEOT_NORMAL",
-            "form": 968
+            "form": 968,
+            "temp_evolution_id": 1
         }
     ]
 }
