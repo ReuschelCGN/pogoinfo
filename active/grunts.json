@@ -186,8 +186,7 @@
                 [
                     {
                         "id": 509,
-                        "template": "PURRLOIN_NORMAL",
-                        "form": 1931
+                        "template": "PURRLOIN"
                     },
                     {
                         "id": 19,
@@ -569,8 +568,7 @@
                     },
                     {
                         "id": 580,
-                        "template": "DUCKLETT_NORMAL",
-                        "form": 2138
+                        "template": "DUCKLETT"
                     }
                 ],
                 [
@@ -678,8 +676,7 @@
                     },
                     {
                         "id": 591,
-                        "template": "AMOONGUSS_NORMAL",
-                        "form": 2165
+                        "template": "AMOONGUSS"
                     }
                 ]
             ]
@@ -890,8 +887,7 @@
                     },
                     {
                         "id": 504,
-                        "template": "PATRAT_NORMAL",
-                        "form": 1916
+                        "template": "PATRAT"
                     }
                 ],
                 [
@@ -961,8 +957,7 @@
                     },
                     {
                         "id": 590,
-                        "template": "FOONGUS_NORMAL",
-                        "form": 2162
+                        "template": "FOONGUS"
                     }
                 ],
                 [
@@ -1036,8 +1031,7 @@
                 [
                     {
                         "id": 203,
-                        "template": "GIRAFARIG_NORMAL",
-                        "form": 1241
+                        "template": "GIRAFARIG"
                     },
                     {
                         "id": 63,
@@ -1048,8 +1042,7 @@
                 [
                     {
                         "id": 203,
-                        "template": "GIRAFARIG_NORMAL",
-                        "form": 1241
+                        "template": "GIRAFARIG"
                     },
                     {
                         "id": 280,
@@ -1070,8 +1063,7 @@
                     },
                     {
                         "id": 203,
-                        "template": "GIRAFARIG_NORMAL",
-                        "form": 1241
+                        "template": "GIRAFARIG"
                     }
                 ]
             ]
@@ -1633,8 +1625,7 @@
                 [
                     {
                         "id": 403,
-                        "template": "SHINX_NORMAL",
-                        "form": 1679
+                        "template": "SHINX"
                     },
                     {
                         "id": 179,
@@ -1657,8 +1648,7 @@
                 [
                     {
                         "id": 405,
-                        "template": "LUXRAY_NORMAL",
-                        "form": 1685
+                        "template": "LUXRAY"
                     },
                     {
                         "id": 125,
