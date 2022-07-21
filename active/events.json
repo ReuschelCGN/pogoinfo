@@ -207,7 +207,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "??? Event",
+        "name": "Hisuian Discoveries",
         "type": "event",
         "start": "2022-07-27 10:00",
         "end": "2022-08-02 20:00",
@@ -217,7 +217,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
