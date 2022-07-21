@@ -170,7 +170,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -475,7 +475,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -570,7 +570,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
