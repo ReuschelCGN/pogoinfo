@@ -307,7 +307,44 @@
                 "template": "SNEASEL_HISUIAN"
             }
         ],
-        "raids": [],
+        "raids": [
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA"
+            },
+            {
+                "id": 340,
+                "template": "WHISCASH"
+            },
+            {
+                "id": 483,
+                "template": "DIALGA"
+            },
+            {
+                "id": 94,
+                "template": "GENGAR"
+            }
+        ],
         "shinies": [
             {
                 "id": 125,
