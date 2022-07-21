@@ -211,8 +211,102 @@
         "type": "event",
         "start": "2022-07-27 10:00",
         "end": "2022-08-02 20:00",
-        "spawns": [],
-        "eggs": [],
+        "spawns": [
+            {
+                "id": 41,
+                "template": "ZUBAT"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB_HISUIAN"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH_HISUIAN"
+            },
+            {
+                "id": 224,
+                "template": "OCTILLERY"
+            },
+            {
+                "id": 265,
+                "template": "WURMPLE"
+            },
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 58,
+                "template": "GROWLITHE_HISUIAN"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB_HISUIAN"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH_HISUIAN"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL_HISUIAN"
+            }
+        ],
         "raids": [],
         "shinies": [],
         "bonuses": [],
