@@ -308,9 +308,29 @@
             }
         ],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            }
+        ],
         "bonuses": [],
-        "features": [],
+        "features": [
+            {
+                "text": "Hisuian Growlithe, Hisuian Qwilfish, and Hisuian Sneasel will make their Pokémon GO debuts!"
+            },
+            {
+                "text": "If Trainers around the world complete the Global Challenge during Pokémon GO Fest weekend, we will unlock upgraded bonuses during the Hisuian Discoveries event."
+            }
+        ],
         "has_quests": true,
         "has_spawnpoints": false
     },
