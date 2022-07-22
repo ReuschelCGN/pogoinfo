@@ -1,62 +1,53 @@
 {
     "1": [
         {
-            "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 322,
-            "template": "NUMEL_NORMAL",
-            "form": 1517
+            "id": 315,
+            "template": "ROSELIA_NORMAL",
+            "form": 1502
         },
         {
-            "id": 599,
-            "template": "KLINK_NORMAL",
-            "form": 2189
-        },
-        {
-            "id": 677,
-            "template": "ESPURR"
-        },
-        {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 403,
+            "template": "SHINX"
         }
     ],
     "3": [
         {
-            "id": 57,
-            "template": "PRIMEAPE_NORMAL",
-            "form": 1002
+            "id": 113,
+            "template": "CHANSEY_NORMAL",
+            "form": 1056
         },
         {
-            "id": 67,
-            "template": "MACHOKE_NORMAL",
-            "form": 812
+            "id": 176,
+            "template": "TOGETIC_NORMAL",
+            "form": 1187
         },
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         },
         {
-            "id": 507,
-            "template": "HERDIER_NORMAL",
-            "form": 1925
+            "id": 340,
+            "template": "WHISCASH_NORMAL",
+            "form": 1553
         }
     ],
     "5": [
         {
-            "id": 146,
-            "template": "MOLTRES_NORMAL",
-            "form": 836
+            "id": 483,
+            "template": "DIALGA"
         }
     ],
     "6": [
         {
-            "id": 18,
-            "template": "PIDGEOT",
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044,
             "temp_evolution_id": 1
         }
     ]
