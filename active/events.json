@@ -202,7 +202,8 @@
         "spawns": [
             {
                 "id": 100,
-                "template": "VOLTORB_HISUIAN"
+                "template": "VOLTORB_HISUIAN",
+                "form": 2728
             }
         ],
         "eggs": [],
