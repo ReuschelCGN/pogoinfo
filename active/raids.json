@@ -12,8 +12,7 @@
         },
         {
             "id": 315,
-            "template": "ROSELIA_NORMAL",
-            "form": 1502
+            "template": "ROSELIA"
         },
         {
             "id": 403,
@@ -21,20 +20,17 @@
         },
         {
             "id": 515,
-            "template": "PANPOUR_NORMAL",
-            "form": 1949
+            "template": "PANPOUR"
         }
     ],
     "3": [
         {
             "id": 113,
-            "template": "CHANSEY_NORMAL",
-            "form": 1056
+            "template": "CHANSEY"
         },
         {
             "id": 176,
-            "template": "TOGETIC_NORMAL",
-            "form": 1187
+            "template": "TOGETIC"
         },
         {
             "id": 281,
@@ -43,8 +39,7 @@
         },
         {
             "id": 340,
-            "template": "WHISCASH_NORMAL",
-            "form": 1553
+            "template": "WHISCASH"
         }
     ],
     "5": [
