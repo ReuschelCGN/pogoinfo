@@ -16,7 +16,7 @@
     {
         "name": "Hisuian Discoveries Event",
         "type": "event",
-        "start": null,
+        "start": 2022-07-27 10:00,
         "end": "2022-08-02 20:00",
         "spawns": [
             {
@@ -305,7 +305,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -343,9 +343,9 @@
         "end": "2022-08-13 14:00",
         "spawns": [
             {
-                "id": 264,
-                "template": "LINOONE_GALARIAN",
-                "form": 948
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 296
             }
         ],
         "eggs": [],
@@ -356,7 +356,22 @@
                 "form": 948
             }
         ],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 296
+            },
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 248
+            },
+            {
+                "id": 862,
+                "template": "OBSTAGOON"
+            }
+        ],
         "bonuses": [
             {
                 "text": "Increased Spawns"
@@ -425,7 +440,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
