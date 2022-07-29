@@ -14,31 +14,11 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Hisuian Discoveries",
+        "name": "Hisuian Discoveries Event",
         "type": "event",
-        "start": "2022-07-27 10:00",
+        "start": null,
         "end": "2022-08-02 20:00",
         "spawns": [
-            {
-                "id": 41,
-                "template": "ZUBAT"
-            },
-            {
-                "id": 77,
-                "template": "PONYTA"
-            },
-            {
-                "id": 95,
-                "template": "ONIX"
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB_HISUIAN"
-            },
-            {
-                "id": 114,
-                "template": "TANGELA"
-            },
             {
                 "id": 125,
                 "template": "ELECTABUZZ"
@@ -48,76 +28,37 @@
                 "template": "MAGMAR"
             },
             {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
-                "id": 137,
-                "template": "PORYGON"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH_HISUIAN"
-            },
-            {
                 "id": 224,
                 "template": "OCTILLERY"
-            },
-            {
-                "id": 265,
-                "template": "WURMPLE"
-            },
-            {
-                "id": 401,
-                "template": "KRICKETOT"
-            },
-            {
-                "id": 418,
-                "template": "BUIZEL"
-            },
-            {
-                "id": 425,
-                "template": "DRIFLOON"
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
             },
             {
                 "id": 443,
                 "template": "GIBLE"
             },
             {
-                "id": 453,
-                "template": "CROAGUNK"
+                "id": 515,
+                "template": "PANPOUR"
             }
         ],
         "eggs": [
             {
-                "id": 58,
-                "template": "GROWLITHE_HISUIAN"
-            },
-            {
                 "id": 100,
-                "template": "VOLTORB_HISUIAN"
+                "template": "VOLTORB"
             },
             {
                 "id": 211,
-                "template": "QWILFISH_HISUIAN"
+                "template": "QWILFISH"
             },
             {
                 "id": 215,
-                "template": "SNEASEL_HISUIAN"
+                "template": "SNEASEL"
             }
         ],
         "raids": [
             {
                 "id": 201,
-                "template": "UNOWN_S"
+                "template": "UNOWN_S",
+                "form": 19
             },
             {
                 "id": 215,
@@ -156,41 +97,39 @@
                 "template": "DIALGA"
             },
             {
+                "id": 484,
+                "template": "PALKIA"
+            },
+            {
                 "id": 94,
-                "template": "GENGAR"
+                "template": "GENGAR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
             }
         ],
-        "shinies": [
+        "shinies": [],
+        "bonuses": [
             {
-                "id": 125,
-                "template": "ELECTABUZZ"
+                "text": "Friendship levels will increase faster than normal through opening Gifts, trading Pokémon, or battling together in raids, Gyms, or Trainer Battles*"
             },
             {
-                "id": 126,
-                "template": "MAGMAR"
+                "text": "Trainers can open up to 45 Gifts",
+                "value": 45
             },
             {
-                "id": 201,
-                "template": "UNOWN_S"
+                "text": "Trainers can send up to 150 Gifts each day",
+                "value": 150
             },
             {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 515,
-                "template": "PANPOUR"
+                "text": "Trainers can hold up to 30 Gifts at a time",
+                "value": 30
             }
         ],
-        "bonuses": [],
-        "features": [
-            {
-                "text": "Hisuian Growlithe, Hisuian Qwilfish, and Hisuian Sneasel will make their Pokémon GO debuts!"
-            },
-            {
-                "text": "If Trainers around the world complete the Global Challenge during Pokémon GO Fest weekend, we will unlock upgraded bonuses during the Hisuian Discoveries event."
-            }
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": false
     },
@@ -199,13 +138,7 @@
         "type": "spotlight-hour",
         "start": "2022-08-02 18:00",
         "end": "2022-08-02 19:00",
-        "spawns": [
-            {
-                "id": 100,
-                "template": "VOLTORB_HISUIAN",
-                "form": 2728
-            }
-        ],
+        "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -312,24 +245,7 @@
                 "template": "DARKRAI"
             }
         ],
-        "shinies": [
-            {
-                "id": 511,
-                "template": "PANSAGE"
-            },
-            {
-                "id": 512,
-                "template": "SIMISAGE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 685,
-                "template": "SLURPUFF"
-            }
-        ],
+        "shinies": [],
         "bonuses": [
             {
                 "text": "Make up to six Special Trades"
@@ -389,7 +305,7 @@
             }
         ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -397,12 +313,7 @@
         "type": "spotlight-hour",
         "start": "2022-08-09 18:00",
         "end": "2022-08-09 19:00",
-        "spawns": [
-            {
-                "id": 29,
-                "template": "NIDORAN_FEMALE"
-            }
-        ],
+        "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -412,24 +323,10 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Bug Out!",
-        "type": "event",
-        "start": "2022-08-10 10:00",
-        "end": "2022-08-16 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Genesect Raid Hour",
         "type": "raid-hour",
-        "start": "2022-08-10 18:00",
-        "end": "2022-08-10 19:00",
+        "start": "2022-08-17 18:00",
+        "end": "2022-08-17 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -446,9 +343,9 @@
         "end": "2022-08-13 14:00",
         "spawns": [
             {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 296
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 948
             }
         ],
         "eggs": [],
@@ -456,25 +353,10 @@
             {
                 "id": 264,
                 "template": "LINOONE_GALARIAN",
-                "form": 248
+                "form": 948
             }
         ],
-        "shinies": [
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 296
-            },
-            {
-                "id": 264,
-                "template": "LINOONE_GALARIAN",
-                "form": 248
-            },
-            {
-                "id": 862,
-                "template": "OBSTAGOON"
-            }
-        ],
+        "shinies": [],
         "bonuses": [
             {
                 "text": "Increased Spawns"
@@ -500,21 +382,19 @@
                 "value": 2
             },
             {
-                "text": "2x Chance to receive Zigzagoon XL Candy from catching Zigzagoon",
-                "value": 2
+                "text": "2× chance for Trainers level 31 and up to receive XL Candy from catching Pokemon",
+                "value": 231
             },
             {
-                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 3 for the day)",
-                "value": 13
+                "text": "One additional Special Trade can be made for a maximum of three for the day.*"
             },
             {
-                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
-                "template": "increased-stardust",
+                "text": "Trades made during the event and up to five hours afterward will require 50% less Stardust.*",
                 "value": 50
             }
         ],
         "features": [
-            "Trainer Battles: 15 damage",
+            "Trainer Battles: 15 power and guaranteed to increase the user’s Defense and lower the opponent’s Defense.",
             "Gyms and raids: 20 damage"
         ],
         "has_quests": true,
@@ -525,12 +405,7 @@
         "type": "spotlight-hour",
         "start": "2022-08-16 18:00",
         "end": "2022-08-16 19:00",
-        "spawns": [
-            {
-                "id": 595,
-                "template": "JOLTIK"
-            }
-        ],
+        "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -540,24 +415,10 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Genesect Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-08-17 18:00",
-        "end": "2022-08-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO World Championships Event",
+        "name": "Bug Out!",
         "type": "event",
-        "start": "2022-08-18 10:00",
-        "end": "2022-08-23 20:00",
+        "start": "2022-08-10 10:00",
+        "end": "2022-08-16 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -572,12 +433,7 @@
         "type": "spotlight-hour",
         "start": "2022-08-23 18:00",
         "end": "2022-08-23 19:00",
-        "spawns": [
-            {
-                "id": 32,
-                "template": "NIDORAN_MALE"
-            }
-        ],
+        "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -585,6 +441,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Pokémon GO World Championships Event",
+        "type": "event",
+        "start": "2022-08-18 10:00",
+        "end": "2022-08-23 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Zacian Raid Hour",
@@ -611,7 +481,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -619,12 +489,7 @@
         "type": "spotlight-hour",
         "start": "2022-08-30 18:00",
         "end": "2022-08-30 19:00",
-        "spawns": [
-            {
-                "id": 519,
-                "template": "PIDOVE"
-            }
-        ],
+        "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -922,7 +787,7 @@
             }
         ],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     }
 ]
