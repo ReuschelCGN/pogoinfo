@@ -34,9 +34,9 @@
         "end": "2022-08-13 14:00",
         "spawns": [
             {
-                "id": 264,
-                "template": "LINOONE_GALARIAN",
-                "form": 948
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 296
             }
         ],
         "eggs": [],
@@ -47,7 +47,22 @@
                 "form": 948
             }
         ],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 296
+            },
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 248
+            },
+            {
+                "id": 862,
+                "template": "OBSTAGOON"
+            }
+        ],
         "bonuses": [
             {
                 "text": "Increased Spawns"
