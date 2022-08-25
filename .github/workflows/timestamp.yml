@@ -6,11 +6,8 @@ jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     steps:
-    - name: timetag
-      id: create_tag
-      uses: mcpierce/github-commit-timestamp-tagger@master
-      with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        base_version: "v1.0"
-    - name: Use the tag in another step
-      run: "echo ${{ steps.create_tag.outputs.tag_time }} > last-nest-migration"
+    - name: Timestamp
+      id: create_timestamp
+      run: echo TS=$(date +%s) >> $GITHUB_ENV
+    - name: Set new Timestamp
+      run: "echo ${{ env.TS }} > nests/last-regular-migration"
