@@ -10,4 +10,4 @@ jobs:
       id: create_timestamp
       run: echo TS=$(date +%s) >> $GITHUB_ENV
     - name: Set new Timestamp
-      run: "echo ${{ env.TS }} > nests/last-regular-migration"
+      run: "echo ${{ env.TS }} > ./nests/last-regular-migration"
