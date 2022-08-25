@@ -12,7 +12,7 @@ jobs:
     - name: write new timestampfile
       uses: "DamianReeves/write-file-action@master"
       with:
-        path: ./nests/last-regular-migration
+        path: "./nests/last-regular-migration"
         write-mode: overwrite
         contents: |
           ${{ env.TS }}
