@@ -13,4 +13,4 @@ jobs:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         base_version: "v1.0"
     - name: Use the tag in another step
-      run: "echo ${{ steps.current-timestamp.outputs.tag_time }} > last-nest-migration"
+      run: "echo ${{ steps.create_tag.outputs.tag_time }} > last-nest-migration"
