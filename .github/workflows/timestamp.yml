@@ -16,4 +16,5 @@ jobs:
       with:
         path: nests/last-regular-migration
         write-mode: overwrite
-        contents: ${{ env.TS }}
+        contents: |
+          ${{ env.TS }}
