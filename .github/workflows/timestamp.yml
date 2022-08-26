@@ -10,7 +10,7 @@ jobs:
       id: create_timestamp
       run: echo TS=$(date +%s) >> $GITHUB_ENV
     - name: write new timestampfile
-      uses: "DamianReeves/write-file-action@v2"
+      uses: "DamianReeves/write-file-action@master"
       with:
         path: "./nests/last-regular-migration"
         write-mode: overwrite
