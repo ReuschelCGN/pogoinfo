@@ -1,4 +1,4 @@
-name: "last-nest-migration update"
+name: "last-nest-migration update& push"
 
 on:
   schedule:
