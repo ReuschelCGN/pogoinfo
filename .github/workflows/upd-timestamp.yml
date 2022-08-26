@@ -1,4 +1,4 @@
-name: "last-nest-migration update& push"
+name: "last-nest-migration update&push"
 
 on:
   schedule:
@@ -29,4 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: v2
           force: true
-          message: 'Overwritten by Github Actions - ${date}'
+          message: 'upd last-nest-migration'
