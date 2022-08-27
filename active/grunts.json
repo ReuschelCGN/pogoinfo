@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -726,14 +726,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 76,
-                        "template": "GOLEM_NORMAL",
-                        "form": 71
-                    },
-                    {
                         "id": 450,
                         "template": "HIPPOWDON_NORMAL",
                         "form": 891
+                    },
+                    {
+                        "id": 76,
+                        "template": "GOLEM_NORMAL",
+                        "form": 71
                     }
                 ]
             ]
@@ -1368,14 +1368,14 @@
                 ],
                 [
                     {
-                        "id": 257,
-                        "template": "BLAZIKEN_NORMAL",
-                        "form": 1364
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 257,
+                        "template": "BLAZIKEN_NORMAL",
+                        "form": 1364
                     },
                     {
                         "id": 9,
