@@ -250,5 +250,42 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Season of Light",
+        "type": "event",
+        "start": "2022-09-01 10:00",
+        "end": "2022-12-01 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased damage for Pokémon participating in raids remotely"
+            },
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Increased Incense effectiveness while moving",
+                "template": "longer-incense"
+            },
+            {
+                "text": "Up to two free Raid Passes per day by spinning Gym Photo Discs"
+            },
+            {
+                "text": "Additional Items from Research Breakthroughs"
+            },
+            {
+                "text": "Increased Stardust reward for Research Breakthroughs"
+            },
+            {
+                "text": "Extra Stardust from Gifts"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     }
 ]
