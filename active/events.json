@@ -242,7 +242,150 @@
         "type": "event",
         "start": "2022-09-01 10:00",
         "end": "2022-12-01 10:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 89,
+                "template": "MUK"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB_HISUIAN",
+                "form": 2728
+            },
+            {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 412,
+                "template": "BURMY",
+                "form": 118
+            },
+            {
+                "id": 28,
+                "template": "SANDSLASH"
+            },
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 234,
+                "template": "STANTLER"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 279,
+                "template": "PELIPPER"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 152,
+                "template": "CHIKORITA"
+            },
+            {
+                "id": 155,
+                "template": "CYNDAQUIL"
+            },
+            {
+                "id": 158,
+                "template": "TOTODILE"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            }
+        ],
         "eggs": [
             {
                 "id": 129,
