@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -722,13 +722,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 76,
                         "template": "GOLEM_NORMAL",
                         "form": 71
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 450,
@@ -898,14 +898,14 @@
                         "form": 47
                     },
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     }
                 ]
             ]
@@ -1368,14 +1368,14 @@
                 ],
                 [
                     {
-                        "id": 257,
-                        "template": "BLAZIKEN_NORMAL",
-                        "form": 1364
-                    },
-                    {
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 257,
+                        "template": "BLAZIKEN_NORMAL",
+                        "form": 1364
                     },
                     {
                         "id": 131,
@@ -1630,13 +1630,13 @@
                         "form": 652
                     },
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 125,
                         "template": "ELECTABUZZ_NORMAL",
                         "form": 640
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     }
                 ]
             ]
