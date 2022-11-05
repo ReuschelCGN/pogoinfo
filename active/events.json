@@ -28,10 +28,7 @@
                 "value": 3
             }
         ],
-        "features": [
-            "Trainer Battles: 150 power and decreases the user’s Attack.",
-            "Gyms and raids: 150 power"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
