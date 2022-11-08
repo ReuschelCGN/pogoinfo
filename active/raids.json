@@ -26,18 +26,18 @@
     ],
     "3": [
         {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
-        },
-        {
-            "id": 302,
-            "template": "SABLEYE_NORMAL",
-            "form": 923
+            "id": 373,
+            "template": "SALAMENCE_NORMAL",
+            "form": 761
         },
         {
             "id": 621,
             "template": "DRUDDIGON"
+        },
+        {
+            "id": 628,
+            "template": "BRAVIARY_NORMAL",
+            "form": 2798
         }
     ],
     "5": [
