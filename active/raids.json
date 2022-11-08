@@ -49,9 +49,9 @@
     ],
     "6": [
         {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911,
+            "id": 130,
+            "template": "GYARADOS_NORMAL",
+            "form": 256,
             "temp_evolution_id": 1
         }
     ]
