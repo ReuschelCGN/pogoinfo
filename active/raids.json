@@ -1,39 +1,42 @@
 {
     "1": [
         {
-            "id": 19,
-            "template": "RATTATA_NORMAL",
-            "form": 46
+            "id": 56,
+            "template": "MANKEY"
         },
         {
-            "id": 316,
-            "template": "GULPIN_NORMAL",
-            "form": 1505
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 318,
-            "template": "CARVANHA_NORMAL",
-            "form": 734
+            "id": 325,
+            "template": "SPOINK"
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 498,
+            "template": "TEPIG"
         }
     ],
     "3": [
         {
-            "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 628,
-            "template": "BRAVIARY_NORMAL",
-            "form": 2798
+            "id": 317,
+            "template": "SWALOT"
+        },
+        {
+            "id": 319,
+            "template": "SHARPEDO_NORMAL",
+            "form": 737
         }
     ],
     "5": [
