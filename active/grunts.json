@@ -126,7 +126,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -186,7 +187,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -548,13 +550,13 @@
             "team": [
                 [
                     {
-                        "id": 580,
-                        "template": "DUCKLETT"
-                    },
-                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
+                    },
+                    {
+                        "id": 580,
+                        "template": "DUCKLETT"
                     },
                     {
                         "id": 177,
@@ -654,13 +656,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -713,14 +715,14 @@
                 ],
                 [
                     {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    },
-                    {
                         "id": 50,
                         "template": "DIGLETT_NORMAL",
                         "form": 59
+                    },
+                    {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
                     }
                 ],
                 [
@@ -848,7 +850,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -917,7 +920,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1000,7 +1004,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1065,7 +1070,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1221,13 +1227,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 169,
@@ -1520,14 +1526,14 @@
                 ],
                 [
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_NORMAL",
-                        "form": 920
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_NORMAL",
+                        "form": 920
                     },
                     {
                         "id": 623,
@@ -1550,7 +1556,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
