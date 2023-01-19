@@ -193,13 +193,13 @@
             "team": [
                 [
                     {
+                        "id": 509,
+                        "template": "PURRLOIN"
+                    },
+                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
-                    },
-                    {
-                        "id": 509,
-                        "template": "PURRLOIN"
                     }
                 ],
                 [
@@ -942,14 +942,14 @@
                 ],
                 [
                     {
-                        "id": 30,
-                        "template": "NIDORINA_NORMAL",
-                        "form": 779
-                    },
-                    {
                         "id": 33,
                         "template": "NIDORINO_NORMAL",
                         "form": 785
+                    },
+                    {
+                        "id": 30,
+                        "template": "NIDORINA_NORMAL",
+                        "form": 779
                     }
                 ],
                 [
