@@ -183,7 +183,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -277,6 +278,11 @@
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ],
                 [
@@ -386,7 +392,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -416,6 +423,11 @@
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ],
                 [
@@ -458,7 +470,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -936,7 +949,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1082,7 +1096,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1156,7 +1171,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1554,7 +1570,8 @@
         },
         "lineup": {
             "rewards": [
-                2
+                0,
+                1
             ],
             "team": [
                 [
@@ -1683,7 +1700,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
