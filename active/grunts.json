@@ -189,13 +189,13 @@
             "team": [
                 [
                     {
+                        "id": 595,
+                        "template": "JOLTIK"
+                    },
+                    {
                         "id": 451,
                         "template": "SKORUPI_NORMAL",
                         "form": 1796
-                    },
-                    {
-                        "id": 595,
-                        "template": "JOLTIK"
                     },
                     {
                         "id": 213,
@@ -222,9 +222,9 @@
                 ],
                 [
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     },
                     {
                         "id": 205,
@@ -232,9 +232,9 @@
                         "form": 1247
                     },
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 ]
             ]
@@ -576,6 +576,11 @@
                 ],
                 [
                     {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
+                    },
+                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
@@ -583,11 +588,6 @@
                     {
                         "id": 323,
                         "template": "CAMERUPT"
-                    },
-                    {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
                     }
                 ]
             ]
@@ -627,13 +627,13 @@
                         "template": "NATU"
                     },
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 41,
                         "template": "ZUBAT_NORMAL",
                         "form": 157
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     }
                 ],
                 [
@@ -714,8 +714,9 @@
             "team": [
                 [
                     {
-                        "id": 252,
-                        "template": "TREECKO"
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
                     },
                     {
                         "id": 331,
@@ -723,9 +724,8 @@
                         "form": 610
                     },
                     {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
+                        "id": 252,
+                        "template": "TREECKO"
                     }
                 ],
                 [
@@ -742,13 +742,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -871,14 +871,14 @@
                 ],
                 [
                     {
-                        "id": 460,
-                        "template": "ABOMASNOW_NORMAL",
-                        "form": 935
-                    },
-                    {
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
+                    },
+                    {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
                     },
                     {
                         "id": 131,
@@ -1029,26 +1029,26 @@
                 ],
                 [
                     {
-                        "id": 33,
-                        "template": "NIDORINO_NORMAL",
-                        "form": 785
-                    },
-                    {
                         "id": 30,
                         "template": "NIDORINA_NORMAL",
                         "form": 779
+                    },
+                    {
+                        "id": 33,
+                        "template": "NIDORINO_NORMAL",
+                        "form": 785
                     }
                 ],
                 [
                     {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
-                    },
-                    {
                         "id": 89,
                         "template": "MUK_NORMAL",
                         "form": 75
+                    },
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 ]
             ]
@@ -1358,14 +1358,14 @@
                         "template": "SCEPTILE"
                     },
                     {
-                        "id": 230,
-                        "template": "KINGDRA_NORMAL",
-                        "form": 1298
-                    },
-                    {
                         "id": 227,
                         "template": "SKARMORY_NORMAL",
                         "form": 1295
+                    },
+                    {
+                        "id": 230,
+                        "template": "KINGDRA_NORMAL",
+                        "form": 1298
                     }
                 ],
                 [
@@ -1410,6 +1410,11 @@
                 ],
                 [
                     {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
+                    },
+                    {
                         "id": 257,
                         "template": "BLAZIKEN_NORMAL",
                         "form": 1364
@@ -1417,11 +1422,6 @@
                     {
                         "id": 623,
                         "template": "GOLURK"
-                    },
-                    {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
                     }
                 ],
                 [
@@ -1637,14 +1637,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
                     }
                 ],
                 [
@@ -1670,13 +1670,13 @@
                         "form": 920
                     },
                     {
-                        "id": 623,
-                        "template": "GOLURK"
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 623,
+                        "template": "GOLURK"
                     }
                 ]
             ]
@@ -1701,13 +1701,13 @@
             "team": [
                 [
                     {
+                        "id": 403,
+                        "template": "SHINX"
+                    },
+                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
-                    },
-                    {
-                        "id": 403,
-                        "template": "SHINX"
                     },
                     {
                         "id": 522,
@@ -1728,13 +1728,13 @@
                 ],
                 [
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     },
                     {
                         "id": 523,
