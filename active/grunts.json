@@ -1349,13 +1349,13 @@
                         "form": 1295
                     },
                     {
+                        "id": 254,
+                        "template": "SCEPTILE"
+                    },
+                    {
                         "id": 230,
                         "template": "KINGDRA_NORMAL",
                         "form": 1298
-                    },
-                    {
-                        "id": 254,
-                        "template": "SCEPTILE"
                     }
                 ],
                 [
@@ -1627,14 +1627,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
                     }
                 ],
                 [
