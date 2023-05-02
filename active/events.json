@@ -35,8 +35,124 @@
         "spawns": [],
         "eggs": [
             {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
                 "id": 636,
                 "template": "LARVESTA"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 753,
+                "template": "FOMANTIS"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 207,
+                "template": "GLIGAR"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
+                "id": 433,
+                "template": "CHINGLING"
+            },
+            {
+                "id": 438,
+                "template": "BONSLY"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 747,
+                "template": "MAREANIE"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 696,
+                "template": "TYRUNT"
+            },
+            {
+                "id": 698,
+                "template": "AMAURA"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 777,
+                "template": "TOGEDEMARU"
+            },
+            {
+                "id": 782,
+                "template": "JANGMO_O"
             }
         ],
         "raids": [],
@@ -133,16 +249,66 @@
         "has_spawnpoints": false
     },
     {
-        "name": "May Community Day",
+        "name": "Fennekin Community Day",
         "type": "community-day",
         "start": "2023-05-21 14:00",
         "end": "2023-05-21 17:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 654,
+                "template": "BRAIXEN"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 654,
+                "template": "BRAIXEN"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 110 power",
+            "Gyms and raids: 110 power",
+            "Trainer Battles: 60 power, and decreases your opponent’s Attack.",
+            "Gyms and raids: 60 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
