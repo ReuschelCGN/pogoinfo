@@ -123,14 +123,14 @@
                 ],
                 [
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     },
                     {
                         "id": 282,
@@ -422,14 +422,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 210,
                         "template": "GRANBULL_NORMAL",
                         "form": 1256
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     }
                 ]
             ]
@@ -547,14 +547,14 @@
                         "template": "NUMEL"
                     },
                     {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    },
-                    {
                         "id": 37,
                         "template": "VULPIX_NORMAL",
                         "form": 55
+                    },
+                    {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
                     }
                 ],
                 [
@@ -737,13 +737,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -1189,14 +1189,14 @@
                         "form": 1574
                     },
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 75,
                         "template": "GRAVELER_NORMAL",
                         "form": 69
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     }
                 ],
                 [
@@ -1354,13 +1354,13 @@
                         "form": 1295
                     },
                     {
-                        "id": 254,
-                        "template": "SCEPTILE"
-                    },
-                    {
                         "id": 230,
                         "template": "KINGDRA_NORMAL",
                         "form": 1298
+                    },
+                    {
+                        "id": 254,
+                        "template": "SCEPTILE"
                     }
                 ],
                 [
@@ -1723,13 +1723,13 @@
                 ],
                 [
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     },
                     {
                         "id": 523,
