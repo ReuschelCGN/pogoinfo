@@ -35,8 +35,8 @@
     ],
     "5": [
         {
-            "id": 788,
-            "template": "TAPU_FINI"
+            "id": 486,
+            "template": "REGIGIGAS"
         },
         {
             "template": "UNSET"
@@ -50,9 +50,9 @@
     ],
     "6": [
         {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898,
+            "id": 334,
+            "template": "ALTARIA_NORMAL",
+            "form": 1535,
             "temp_evolution_id": 1
         },
         {
