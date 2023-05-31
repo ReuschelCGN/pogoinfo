@@ -1,51 +1,54 @@
 {
     "1": [
         {
-            "template": "UNSET"
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
-            "id": 77,
-            "template": "PONYTA_GALARIAN",
-            "form": 2336
+            "id": 309,
+            "template": "ELECTRIKE"
         },
         {
-            "id": 163,
-            "template": "HOOTHOOT"
+            "id": 371,
+            "template": "BAGON"
+        },
+        {
+            "id": 599,
+            "template": "KLINK"
+        },
+        {
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 618,
-            "template": "STUNFISK_GALARIAN",
-            "form": 2345
+            "id": 227,
+            "template": "SKARMORY"
+        },
+        {
+            "id": 405,
+            "template": "LUXRAY"
+        },
+        {
+            "id": 526,
+            "template": "GIGALITH"
         },
         {
             "id": 621,
             "template": "DRUDDIGON"
         },
         {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
+            "id": 713,
+            "template": "AVALUGG_HISUIAN",
+            "form": 2795
         }
     ],
     "5": [
         {
             "id": 486,
             "template": "REGIGIGAS"
-        },
-        {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
         }
     ],
     "6": [
@@ -54,15 +57,6 @@
             "template": "ALTARIA_NORMAL",
             "form": 1535,
             "temp_evolution_id": 1
-        },
-        {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
-        },
-        {
-            "template": "UNSET"
         }
     ]
 }
