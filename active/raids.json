@@ -47,15 +47,23 @@
     ],
     "5": [
         {
-            "id": 486,
-            "template": "REGIGIGAS"
+            "id": 480,
+            "template": "UXIE"
+        },
+        {
+            "id": 481,
+            "template": "MESPRIT"
+        },
+        {
+            "id": 482,
+            "template": "AZELF"
         }
     ],
     "6": [
         {
-            "id": 334,
-            "template": "ALTARIA_NORMAL",
-            "form": 1535,
+            "id": 260,
+            "template": "SWAMPERT_NORMAL",
+            "form": 211,
             "temp_evolution_id": 1
         }
     ]
