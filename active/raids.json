@@ -1,48 +1,38 @@
 {
     "1": [
         {
-            "id": 37,
-            "template": "VULPIX_ALOLA",
-            "form": 56
+            "id": 204,
+            "template": "PINECO"
         },
         {
-            "id": 309,
-            "template": "ELECTRIKE"
+            "id": 355,
+            "template": "DUSKULL"
         },
         {
-            "id": 371,
-            "template": "BAGON"
+            "id": 517,
+            "template": "MUNNA"
         },
         {
-            "id": 599,
-            "template": "KLINK"
-        },
-        {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 227,
-            "template": "SKARMORY"
+            "id": 93,
+            "template": "HAUNTER"
         },
         {
-            "id": 405,
-            "template": "LUXRAY"
+            "id": 97,
+            "template": "HYPNO"
         },
         {
-            "id": 526,
-            "template": "GIGALITH"
+            "id": 196,
+            "template": "ESPEON"
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
-        },
-        {
-            "id": 713,
-            "template": "AVALUGG_HISUIAN",
-            "form": 2795
+            "id": 213,
+            "template": "SHUCKLE"
         }
     ],
     "5": [
