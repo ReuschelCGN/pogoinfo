@@ -1,46 +1,44 @@
 {
     "1": [
         {
-            "id": 204,
-            "template": "PINECO"
+            "id": 50,
+            "template": "DIGLETT_ALOLA",
+            "form": 60
         },
         {
-            "id": 355,
-            "template": "DUSKULL"
+            "id": 211,
+            "template": "QWILFISH_HISUIAN",
+            "form": 2788
         },
         {
-            "id": 509,
-            "template": "PURRLOIN"
+            "id": 318,
+            "template": "CARVANHA"
         },
         {
-            "id": 517,
-            "template": "MUNNA"
+            "id": 349,
+            "template": "FEEBAS"
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 769,
+            "template": "SANDYGAST"
         }
     ],
     "3": [
         {
-            "id": 93,
-            "template": "HAUNTER"
+            "id": 9,
+            "template": "BLASTOISE"
         },
         {
-            "id": 97,
-            "template": "HYPNO"
+            "id": 130,
+            "template": "GYARADOS"
         },
         {
-            "id": 117,
-            "template": "SEADRA"
+            "id": 131,
+            "template": "LAPRAS"
         },
         {
-            "id": 196,
-            "template": "ESPEON"
-        },
-        {
-            "id": 213,
-            "template": "SHUCKLE"
+            "id": 594,
+            "template": "ALOMOMOLA"
         }
     ],
     "5": [
