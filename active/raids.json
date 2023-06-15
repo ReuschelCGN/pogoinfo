@@ -1,26 +1,25 @@
 {
     "1": [
         {
-            "id": 50,
-            "template": "DIGLETT_ALOLA",
-            "form": 60
+            "id": 66,
+            "template": "MACHOP"
         },
         {
-            "id": 211,
-            "template": "QWILFISH_HISUIAN",
-            "form": 2788
+            "id": 88,
+            "template": "GRIMER_NORMAL",
+            "form": 73
         },
         {
-            "id": 318,
-            "template": "CARVANHA"
+            "id": 328,
+            "template": "TRAPINCH"
         },
         {
-            "id": 349,
-            "template": "FEEBAS"
+            "id": 343,
+            "template": "BALTOY"
         },
         {
-            "id": 769,
-            "template": "SANDYGAST"
+            "id": 524,
+            "template": "ROGGENROLA"
         }
     ],
     "3": [
