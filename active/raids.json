@@ -25,20 +25,25 @@
     ],
     "3": [
         {
-            "id": 9,
-            "template": "BLASTOISE"
+            "id": 95,
+            "template": "ONIX"
         },
         {
-            "id": 130,
-            "template": "GYARADOS"
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 131,
-            "template": "LAPRAS"
+            "id": 164,
+            "template": "NOCTOWL"
         },
         {
-            "id": 594,
-            "template": "ALOMOMOLA"
+            "id": 185,
+            "template": "SUDOWOODO"
+        },
+        {
+            "id": 454,
+            "template": "TOXICROAK"
         }
     ],
     "5": [
