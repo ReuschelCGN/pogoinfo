@@ -43,23 +43,15 @@
     ],
     "5": [
         {
-            "id": 480,
-            "template": "UXIE"
-        },
-        {
-            "id": 481,
-            "template": "MESPRIT"
-        },
-        {
-            "id": 482,
-            "template": "AZELF"
+            "id": 793,
+            "template": "NIHILEGO"
         }
     ],
     "6": [
         {
-            "id": 260,
-            "template": "SWAMPERT_NORMAL",
-            "form": 211,
+            "id": 254,
+            "template": "SCEPTILE_NORMAL",
+            "form": 1355,
             "temp_evolution_id": 1
         }
     ]
