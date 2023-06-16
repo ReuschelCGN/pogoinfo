@@ -21,25 +21,20 @@
     ],
     "3": [
         {
-            "id": 95,
-            "template": "ONIX"
-        },
-        {
-            "id": 110,
-            "template": "WEEZING_GALARIAN",
-            "form": 944
-        },
-        {
             "id": 164,
             "template": "NOCTOWL"
         },
         {
-            "id": 185,
-            "template": "SUDOWOODO"
+            "id": 196,
+            "template": "ESPEON"
         },
         {
-            "id": 454,
-            "template": "TOXICROAK"
+            "id": 197,
+            "template": "UMBREON"
+        },
+        {
+            "id": 398,
+            "template": "STARAPTOR"
         }
     ],
     "5": [
