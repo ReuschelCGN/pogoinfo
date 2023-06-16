@@ -1,25 +1,22 @@
 {
     "1": [
         {
-            "id": 66,
-            "template": "MACHOP"
+            "id": 215,
+            "template": "SNEASE_NORMALL",
+            "form": 797
         },
         {
-            "id": 88,
-            "template": "GRIMER_NORMAL",
-            "form": 73
+            "id": 215,
+            "template": "SNEASEL_HISUIAN",
+            "form": 2794
         },
         {
-            "id": 328,
-            "template": "TRAPINCH"
+            "id": 744,
+            "template": "ROCKRUFF"
         },
         {
-            "id": 343,
-            "template": "BALTOY"
-        },
-        {
-            "id": 524,
-            "template": "ROGGENROLA"
+            "id": 753,
+            "template": "FOMANTIS"
         }
     ],
     "3": [
