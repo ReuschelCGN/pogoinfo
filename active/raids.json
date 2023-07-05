@@ -39,15 +39,15 @@
     ],
     "5": [
         {
-            "id": 793,
-            "template": "NIHILEGO"
+            "id": 485,
+            "template": "HEATRAN"
         }
     ],
     "6": [
         {
-            "id": 254,
-            "template": "SCEPTILE_NORMAL",
-            "form": 1355,
+            "id": 302,
+            "template": "SABLEYE_NORMAL",
+            "form": 923,
             "temp_evolution_id": 1
         }
     ]
