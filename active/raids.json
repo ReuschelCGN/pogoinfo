@@ -21,20 +21,25 @@
     ],
     "3": [
         {
-            "id": 164,
-            "template": "NOCTOWL"
+            "id": 105,
+            "template": "MAROWAK_NORMAL",
+            "form": 79
         },
         {
-            "id": 196,
-            "template": "ESPEON"
+            "id": 303,
+            "template": "MAWILE"
         },
         {
-            "id": 197,
-            "template": "UMBREON"
+            "id": 320,
+            "template": "WAILMER"
         },
         {
-            "id": 398,
-            "template": "STARAPTOR"
+            "id": 323,
+            "template": "CAMERUPT"
+        },
+        {
+            "id": 375,
+            "template": "METANG"
         }
     ],
     "5": [
