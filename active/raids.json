@@ -25,25 +25,24 @@
     ],
     "3": [
         {
-            "id": 105,
-            "template": "MAROWAK_NORMAL",
-            "form": 79
+            "id": 82,
+            "template": "MAGNETON"
         },
         {
-            "id": 303,
-            "template": "MAWILE"
+            "id": 132,
+            "template": "LAPRAS"
         },
         {
-            "id": 320,
-            "template": "WAILMER"
+            "id": 136,
+            "template": "FLAREON"
         },
         {
-            "id": 323,
-            "template": "CAMERUPT"
+            "id": 143,
+            "template": "SNORLAX"
         },
         {
-            "id": 375,
-            "template": "METANG"
+            "id": 364,
+            "template": "SEALEO"
         }
     ],
     "5": [
