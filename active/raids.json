@@ -1,22 +1,24 @@
 {
     "1": [
         {
-            "id": 52,
-            "template": "MEOWTH_GALARIAN",
-            "form": 2335
+            "id": 1,
+            "template": "BULBASAUR_NORMAL",
+            "form": 163
         },
         {
-            "id": 77,
-            "template": "PONYTA_NORMAL",
-            "form": 1011
+            "id": 4,
+            "template": "CHARMANDER_NORMAL",
+            "form": 172
         },
         {
-            "id": 90,
-            "template": "SHELLDER"
+            "id": 7,
+            "template": "SQUIRTLE_NORMAL",
+            "form": 181
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
             "id": 667,
