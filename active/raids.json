@@ -48,8 +48,19 @@
     ],
     "5": [
         {
-            "id": 485,
-            "template": "HEATRAN"
+            "id": 144,
+            "template": "ARTICUNO_NORMAL",
+            "form": 716
+        },
+        {
+            "id": 145,
+            "template": "ZAPDOS_NORMAL",
+            "form": 773
+        },
+        {
+            "id": 146,
+            "template": "MOLTRES_NORMAL",
+            "form": 836
         }
     ],
     "6": [
