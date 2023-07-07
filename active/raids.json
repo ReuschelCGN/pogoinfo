@@ -54,9 +54,9 @@
     ],
     "6": [
         {
-            "id": 302,
-            "template": "SABLEYE_NORMAL",
-            "form": 923,
+            "id": 9,
+            "template": "BLASTOISE_NORMAL",
+            "form": 187,
             "temp_evolution_id": 1
         }
     ]
