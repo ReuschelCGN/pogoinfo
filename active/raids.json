@@ -49,26 +49,14 @@
     ],
     "5": [
         {
-            "id": 144,
-            "template": "ARTICUNO_NORMAL",
-            "form": 716
-        },
-        {
-            "id": 145,
-            "template": "ZAPDOS_NORMAL",
-            "form": 773
-        },
-        {
-            "id": 146,
-            "template": "MOLTRES_NORMAL",
-            "form": 836
+            "id": 894,
+            "template": "REGIELEKI"
         }
     ],
     "6": [
         {
-            "id": 9,
-            "template": "BLASTOISE_NORMAL",
-            "form": 187,
+            "id": 257,
+            "template": "BLAZIKEN"
             "temp_evolution_id": 1
         }
     ]
