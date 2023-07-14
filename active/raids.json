@@ -27,24 +27,25 @@
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON"
+            "id": 75,
+            "template": "GRAVELER_NORMAL",
+            "form": 69
         },
         {
-            "id": 132,
-            "template": "LAPRAS"
+            "id": 171,
+            "template": "LANTURN"
         },
         {
-            "id": 136,
-            "template": "FLAREON"
+            "id": 404,
+            "template": "LUXIO"
         },
         {
-            "id": 143,
-            "template": "SNORLAX"
+            "id": 450,
+            "template": "HIPPOWDON"
         },
         {
-            "id": 364,
-            "template": "SEALEO"
+            "id": 603,
+            "template": "EELEKTRIK"
         }
     ],
     "5": [
