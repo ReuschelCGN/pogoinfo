@@ -1,61 +1,16 @@
 {
-    "1": [
-        {
-            "id": 50,
-            "template": "DIGLETT_NORMAL",
-            "form": 59
-        },
-        {
-            "id": 100,
-            "template": "VOLTORB_NORMAL",
-            "form": 1047
-        },
-        {
-            "id": 231,
-            "template": "PHANPY"
-        },
-        {
-            "id": 309,
-            "template": "ELECTRIKE"
-        },
-        {
-            "id": 552,
-            "template": "KROKOROK"
-        }
-    ],
-    "3": [
-        {
-            "id": 75,
-            "template": "GRAVELER_NORMAL",
-            "form": 69
-        },
-        {
-            "id": 171,
-            "template": "LANTURN"
-        },
-        {
-            "id": 404,
-            "template": "LUXIO"
-        },
-        {
-            "id": 450,
-            "template": "HIPPOWDON"
-        },
-        {
-            "id": 603,
-            "template": "EELEKTRIK"
-        }
-    ],
+    "1": [],
+    "3": [],
     "5": [
         {
-            "id": 894,
-            "template": "REGIELEKI"
+            "id": 895,
+            "template": "REGIDRAGO"
         }
     ],
     "6": [
         {
-            "id": 257,
-            "template": "BLAZIKEN",
+            "id": 248,
+            "template": "TYRANITAR",
             "temp_evolution_id": 1
         }
     ]
