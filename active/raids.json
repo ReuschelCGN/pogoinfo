@@ -3,14 +3,14 @@
     "3": [],
     "5": [
         {
-            "id": 895,
-            "template": "REGIDRAGO"
+            "id": 488,
+            "template": "CRESSELIA"
         }
     ],
     "6": [
         {
-            "id": 248,
-            "template": "TYRANITAR",
+            "id": 130,
+            "template": "GYARADOS",
             "temp_evolution_id": 1
         }
     ]
