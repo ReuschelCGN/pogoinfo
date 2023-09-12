@@ -3,18 +3,18 @@
     "3": [],
     "5": [
         {
-            "id": 716,
-            "template": "XERNEAS"
+            "id": 797,
+            "template": "CELESTEELA"
         },
         {
-            "id": 717,
-            "template": "YVELTAL"
+            "id": 798,
+            "template": "KARTANA"
         }
     ],
     "6": [
         {
-            "id": 373,
-            "template": "SALAMENCE",
+            "id": 310,
+            "template": "MANECTRIC",
             "temp_evolution_id": 1
         }
     ]
