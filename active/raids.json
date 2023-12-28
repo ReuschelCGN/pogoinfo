@@ -3,22 +3,14 @@
     "3": [],
     "5": [
         {
-            "id": 243,
-            "template": "RAIKOU"
-        },
-        {
-            "id": 244,
-            "template": "ENTEI"
-        },
-        {
-            "id": 245,
-            "template": "SUICUNE"
+            "id":  486,
+            "template": "REGIGIGAS"
         }
     ],
     "6": [
         {
-            "id": 282,
-            "template": "GARDEVOIR",
+            "id": 362,
+            "template": "GLALIE",
             "temp_evolution_id": 1
         }
     ]
