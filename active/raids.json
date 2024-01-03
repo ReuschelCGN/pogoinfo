@@ -3,14 +3,14 @@
     "3": [],
     "5": [
         {
-            "id":  486,
-            "template": "REGIGIGAS"
+            "id":  795,
+            "template": "PHEROMOSA"
         }
     ],
     "6": [
         {
-            "id": 362,
-            "template": "GLALIE",
+            "id": 181,
+            "template": "AMPHAROS",
             "temp_evolution_id": 1
         }
     ]
