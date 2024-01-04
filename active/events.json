@@ -1,57 +1,5 @@
 [
     {
-        "name": "Castform Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-01-02 18:00",
-        "end": "2024-01-02 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Buzzwole, Xurkitree, and Pheromosa Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-01-03 18:00",
-        "end": "2024-01-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO New Year's 2024",
-        "type": "event",
-        "start": "2024-01-01 10:00",
-        "end": "2024-01-03 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1/2 Egg Hatch Distance when Eggs are placed into Incubators during the event",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "1/4 Hatch Distance for the first three Eggs hatched during the event using the Pokémon GO Egg hatching widget*",
-                "value": 14
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Rowlet Community Day",
         "type": "community-day",
         "start": "2024-01-06 14:00",
@@ -142,9 +90,23 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased frequency of Buddy Pokémon bringing you Souvenirs"
+            },
+            {
+                "text": "Increased frequency of Buddy Pokémon bringing you presents"
+            },
+            {
+                "text": "Your buddy will spend more time on the map after being fed Berries or Poffins"
+            },
+            {
+                "text": "Rockruff hatched from Eggs received as Adventure Sync rewards during Pokémon GO: Timeless Travels may have a chance to evolve into Dusk Form Lycanroc",
+                "template": "reduced-hatch-distance"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -203,7 +165,9 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "???"
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
             },
             {
                 "text": "3-hour Incense*",
@@ -216,10 +180,7 @@
                 "value": 3
             }
         ],
-        "features": [
-            "Trainer Battles: 90 power",
-            "Gyms and Raids: 90 power"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
