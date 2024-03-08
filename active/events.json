@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tapu Koko Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-03-13 18:00",
-        "end": "2024-03-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon Horizons: The Series Celebration Event",
         "type": "event",
         "start": "2024-03-05 10:00",
@@ -49,6 +35,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Koko Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-03-13 18:00",
+        "end": "2024-03-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Litten Community Day",
@@ -346,6 +346,49 @@
             {
                 "text": "Increased XP for defeating one-star and three-star Raids, including one-star and three-star Shadow Raids",
                 "template": "increased-xp"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest 2024: Global",
+        "type": "event",
+        "start": "2024-07-13 10:00",
+        "end": "2024-07-14 18:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1-hour Lure Module Duration",
+                "template": "longer-lure",
+                "value": 1
+            },
+            {
+                "text": "Field Research themed around the different Pokémon habitats"
+            },
+            {
+                "text": "Surprise encounters in GO Snapshot—when taking snapshots during the event, you never know who might show up!"
+            },
+            {
+                "text": "Increased chance of encountering Shiny Pokémon"
+            },
+            {
+                "text": "Up to six Special Trades can be made each day"
+            },
+            {
+                "text": "Level up your Elite Collector medal by completing habitat-themed Collection Challenges!"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Special 7 km Eggs",
+                "value": 7
             }
         ],
         "features": [],
