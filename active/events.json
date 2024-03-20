@@ -1,45 +1,5 @@
 [
     {
-        "name": "Weather Week 2024",
-        "type": "event",
-        "start": "2024-03-14 10:00",
-        "end": "2024-03-18 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Catch Pokémon with Weather Boost to earn extra Stardust",
-                "template": "increased-stardust"
-            },
-            {
-                "text": "2× Stardust for catching Pokémon",
-                "value": 2
-            },
-            {
-                "text": "Increased chance to encounter Shiny Castform!"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Vulpix, Poliwag, Snorunt, and Hippopotas Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-03-19 18:00",
-        "end": "2024-03-19 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Regice Raid Hour",
         "type": "raid-hour",
         "start": "2024-03-20 18:00",
@@ -130,7 +90,8 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "3x ???",
+                "text": "3x Catch XP",
+                "template": "increased-xp",
                 "value": 3
             },
             {
