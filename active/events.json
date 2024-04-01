@@ -1,26 +1,5 @@
 [
     {
-        "name": "World of Wonders: Taken Over",
-        "type": "event",
-        "start": "2024-03-27 00:00",
-        "end": "2024-03-31 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons*"
-            },
-            {
-                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "An Excellent Opportunity",
         "type": "event",
         "start": "2024-04-01 00:00",
