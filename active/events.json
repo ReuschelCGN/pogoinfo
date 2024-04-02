@@ -1,23 +1,5 @@
 [
     {
-        "name": "An Excellent Opportunity",
-        "type": "event",
-        "start": "2024-04-01 00:00",
-        "end": "2024-04-01 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Nice Throws or better will register as Excellent Throws!"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Zubat Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-04-02 18:00",
