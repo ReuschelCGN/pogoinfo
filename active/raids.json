@@ -3,14 +3,22 @@
     "3": [],
     "5": [
         {
-            "id": 448,
-            "template": "CRESSELIA"
+            "id": 144,
+            "template": "ARTICUNO"
+        },
+        {
+            "id": 145,
+            "template": "ZAPDOS"
+        },
+        {
+            "id": 146,
+            "template": "MOLTRES"
         }
     ],
     "6": [
         {
-            "id": 445,
-            "template": "GARCHOMP",
+            "id": 448,
+            "template": "LUCARIO",
             "temp_evolution_id": 1
         }
     ]
