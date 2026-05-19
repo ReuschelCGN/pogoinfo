@@ -1,25 +1,6 @@
 {
     "1": [],
     "3": [],
-    "5": [
-        {
-            "id": 144,
-            "template": "ARTICUNO"
-        },
-        {
-            "id": 145,
-            "template": "ZAPDOS"
-        },
-        {
-            "id": 146,
-            "template": "MOLTRES"
-        }
-    ],
-    "6": [
-        {
-            "id": 448,
-            "template": "LUCARIO",
-            "temp_evolution_id": 1
-        }
-    ]
+    "5": [],
+    "6": []
 }
